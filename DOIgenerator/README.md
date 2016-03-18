@@ -1,0 +1,2 @@
+This program expects you to provide the path to directory containing polar data sets.
+It recursively crawls all the files and generates a DOI to each file and stores it in a json file DOI_generation.json in the directory
