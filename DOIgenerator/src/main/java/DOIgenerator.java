@@ -1,36 +1,78 @@
 import org.json.simple.JSONObject;
 import java.io.*;
-import java.util.ArrayList;
-
+import java.util.HashMap;
+import java.util.Map;
+import java.util.Random;
 
 
 public class DOIgenerator {
 
-    public static final String prefix = "polar.usc.edu/";
-    public static JSONObject jsonObject;
+    private HashMap<String, String> keyMap;
+    private HashMap<String, String> valueMap;
+    private JSONObject jsonObject = new JSONObject();
+    private String domain; // Use this attribute to generate urls for a custom
+    private char myChars[]; // This array is used for character to number
+    private Random myRand; // Random object used to generate random integers
+    private int length;
+    public String dir = "";
 
-    public static void DOI_generator(File file){
+    DOIgenerator(String domain, int length){
+        keyMap = new HashMap<String, String>();
+        valueMap = new HashMap<String, String>();
+        this.domain = domain;
+        this.length = length;
+        myChars = new char[62];
+        myRand = new Random();
+        for (int i = 0; i < 62; i++) {
+            int j;
+            if (i < 10) {
+                j = i + 48;
+            } else if (i > 9 && i <= 35) {
+                j = i + 55;
+            } else {
+                j = i + 61;
+            }
+            myChars[i] = (char) j;
+        }
+    }
+
+    public String genKey(){
+        String key = "";
+        Boolean flag = true;
+        while(flag) {
+            for (int i = 0; i < length; i++) {
+                key += myChars[myRand.nextInt(62)];
+            }
+            if(!keyMap.containsKey(key)){
+                flag = false;
+            }else{
+                key = "";
+            }
+        }
+        return key;
+    }
+
+    public void writeJSON(File file)throws Exception{
+        for(Map.Entry<String, String> entry: valueMap.entrySet()){
+            jsonObject.put(entry.getKey(), domain+"/"+entry.getValue());
+        }
+        FileWriter jsonFile = new FileWriter(file);
+        jsonFile.write(jsonObject.toJSONString());
+        jsonFile.close();
+    }
+
+    public void callGenerator(File file){
         if(file.isDirectory()){
             File[] fileList = file.listFiles();
             for(File temp : fileList){
-                DOI_generator(temp);
+                callGenerator(temp);
             }
         }else{
-            try {
-                BufferedReader br = new BufferedReader(new FileReader(file));
-                ArrayList<String> str = new ArrayList<String>();
-                String string;
-                while ((string = br.readLine()) != null) {
-                    str.add(string);
-                }
-                String[] keyString = str.get(str.size() - 3).split(":");
-                jsonObject.put(file.getName(), prefix+keyString[1].substring(2,keyString[1].length()-2)+file.getName().substring(0,file.getName().indexOf('.')));
-            }
-            catch(FileNotFoundException e){
-                e.printStackTrace();
-            }
-            catch(IOException e){
-                e.printStackTrace();
+            String fileName = file.getName();
+            if(!valueMap.containsKey(fileName)) {
+                String key = genKey();
+                valueMap.put(fileName, key);
+                keyMap.put(key, fileName);
             }
         }
     }
@@ -39,10 +81,11 @@ public class DOIgenerator {
         if(args.length < 1 ){
             System.out.println("Usage: DOIgenerator.java <directory>");
         }else {
-            FileWriter jsonFile = new FileWriter(args[0]+"DOI_generation.json");
-            jsonObject = new JSONObject();
-            DOI_generator(new File(args[0]));
-            jsonFile.write(jsonObject.toJSONString());
+            DOIgenerator doi = new DOIgenerator("polar.usc.edu", 10);
+            File file = new File(args[0]+"/"+"DOI.json");
+            file.createNewFile();
+            doi.callGenerator(new File(args[0]));
+            doi.writeJSON(file);
         }
     }
 
