@@ -32,7 +32,6 @@ if __name__ == "__main__":
 		copy_collection_core(sys.argv[1])
 		data = get_merged_data()
 		s = solr.Solr('http://localhost:8983/solr/polarcollection')
-		[s.add(row) for row in data]
-		solr_restart(sys.argv[1])
+		[s.add(row,commit='true') for row in data]
 		res = solr.SearchHandler(s, '/select?q=*:*')
 		print res().__dict__
