@@ -10,7 +10,6 @@ setup(
     author = "Team 9, CSCI 599",
     description = ("A package to load data into solr"),
     keywords = "solr",
-    packages=['src'],
 	package_data = {"":["resources/data/*","resources/*"]},
 	include_package_data = True,
     long_description=read('README.md'),
