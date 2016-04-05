@@ -21,7 +21,7 @@ def solr_restart(solrroot):
 	time.sleep(10)
 
 def copy_collection_core(solrroot):
-	os.system("cp -r resources/polarcollection "+solrroot+"/example/solr")
+	os.system("cp -r resources/polarcollection "+solrroot+"/server/solr")
 	print("Copied polarcollection...")
 	solr_restart(solrroot)
 	
