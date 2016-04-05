@@ -69,3 +69,538 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/nandan/git_repo/grobid/gro
 	</text>
 </TEI>
 
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/nandan/git_repo/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<encodingDesc>
+			<appInfo>
+				<application version="0.4.1" ident="GROBID" when="2016-04-05T13:16+0000">
+					<ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Benchmark studies in the new Nottingham ABL wind tunnel: section model tests</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName>
+								<forename type="first">J</forename>
+								<forename type="middle">S</forename>
+								<surname>Owen</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">Faculty of Engineering</orgName>
+								<orgName type="institution">University of Nottingham</orgName>
+								<address>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">M</forename>
+								<surname>Mahmoodilari</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">Faculty of Engineering</orgName>
+								<orgName type="institution">University of Nottingham</orgName>
+								<address>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Benchmark studies in the new Nottingham ABL wind tunnel: section model tests</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<abstract>
+				<p>The University of Nottingham has recently built a new atmospheric boundary layer (ABL) wind tunnel. The tunnel has an open return section with a &quot; blow down &quot; configuration. It has a fetch of 12 m and a working section of 2.4 m by 1.8 m. The tunnel has been designed to have an operating speed of 0-15 m/s. Although it was designed primarily for simulating flows in the atmospheric boundary layer, it was intended to use the tunnel with roughness removed to perform section model tests on bridge decks etc. Therefore a series of tests have been performed on a 5:1 rectangular section to demonstrate the suitability of the tunnel for this kind of study.  Measurement of force coefficients in the range 10  Measurement of dynamic response due to buffeting and vortex shedding  Measurement of flutter derivatives The section model was constructed from aluminium with a length of 1.8m and cross section dimensions 76mm by 380mm. The model was set up 2m downstream of the contraction and the flow at deck level had a turbulence intensity less than 1%. For the force coefficient measurements, the model was mounted on four two component load cells that allowed lift, moment and drag to be calculated. For the other tests, the deck was mounted on a set of eight springs tuned to allow the deck to heave and pitch at set frequencies.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/nandan/git_repo/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<encodingDesc>
+			<appInfo>
+				<application version="0.4.1" ident="GROBID" when="2016-04-05T13:16+0000">
+					<ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Sediment Dynamics In Urban Systems -An Holistic Approach To Surface, Drain And Riverine Particulate Transport</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<title level="a" type="main">Sediment Dynamics In Urban Systems -An Holistic Approach To Surface, Drain And Riverine Particulate Transport</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<note>W2</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<abstract>
+				<p>Objectives The aim of this research project is to quantify and provide an improved understanding of the movements of particulate materials through urban systems. The project includes:  identifying sediment sources  assessing opportunities for storage  flow generation and routing, including travel times, through urban systems  measuring sediment outputs  applying hydrological and sediment transport models, eg Hydroworks and MOUSETRAP, to assess and integrate existing models with regard to operation over the full range of flows. Location Bradford Approach Archive data, field observations and integrated modelling are being used in collaboration with Unilever, the Environment Agency and Yorkshire Water. The project has an holistic approach to particulate transfers through the urban environment, from entrainment at source to eventual deposition within and beyond the immediate town or city. This broad approach is providing a means of focusing on important interfaces between urban and rural systems. The project is closely linked to a Urban Pollution Management survey of Bradford, Yorkshire and it is complementary to other large scale research. Start date/duration October 1998 Three years Lead Organisations CEH Wallingford University of Sheffield Deliverables  an improved understanding of urban sediment pathways, times of travel and pollutant loads  support for waste disposal strategies and remediation techniques to reduce pollution.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/nandan/git_repo/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<encodingDesc>
+			<appInfo>
+				<application version="0.4.1" ident="GROBID" when="2016-04-05T13:20+0000">
+					<ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Benchmark studies in the new Nottingham ABL wind tunnel: section model tests</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName>
+								<forename type="first">J</forename>
+								<forename type="middle">S</forename>
+								<surname>Owen</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">Faculty of Engineering</orgName>
+								<orgName type="institution">University of Nottingham</orgName>
+								<address>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">M</forename>
+								<surname>Mahmoodilari</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">Faculty of Engineering</orgName>
+								<orgName type="institution">University of Nottingham</orgName>
+								<address>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Benchmark studies in the new Nottingham ABL wind tunnel: section model tests</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<abstract>
+				<p>The University of Nottingham has recently built a new atmospheric boundary layer (ABL) wind tunnel. The tunnel has an open return section with a &quot; blow down &quot; configuration. It has a fetch of 12 m and a working section of 2.4 m by 1.8 m. The tunnel has been designed to have an operating speed of 0-15 m/s. Although it was designed primarily for simulating flows in the atmospheric boundary layer, it was intended to use the tunnel with roughness removed to perform section model tests on bridge decks etc. Therefore a series of tests have been performed on a 5:1 rectangular section to demonstrate the suitability of the tunnel for this kind of study.  Measurement of force coefficients in the range 10  Measurement of dynamic response due to buffeting and vortex shedding  Measurement of flutter derivatives The section model was constructed from aluminium with a length of 1.8m and cross section dimensions 76mm by 380mm. The model was set up 2m downstream of the contraction and the flow at deck level had a turbulence intensity less than 1%. For the force coefficient measurements, the model was mounted on four two component load cells that allowed lift, moment and drag to be calculated. For the other tests, the deck was mounted on a set of eight springs tuned to allow the deck to heave and pitch at set frequencies.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/nandan/git_repo/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<encodingDesc>
+			<appInfo>
+				<application version="0.4.1" ident="GROBID" when="2016-04-05T13:20+0000">
+					<ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Sediment Dynamics In Urban Systems -An Holistic Approach To Surface, Drain And Riverine Particulate Transport</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<title level="a" type="main">Sediment Dynamics In Urban Systems -An Holistic Approach To Surface, Drain And Riverine Particulate Transport</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<note>W2</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<abstract>
+				<p>Objectives The aim of this research project is to quantify and provide an improved understanding of the movements of particulate materials through urban systems. The project includes:  identifying sediment sources  assessing opportunities for storage  flow generation and routing, including travel times, through urban systems  measuring sediment outputs  applying hydrological and sediment transport models, eg Hydroworks and MOUSETRAP, to assess and integrate existing models with regard to operation over the full range of flows. Location Bradford Approach Archive data, field observations and integrated modelling are being used in collaboration with Unilever, the Environment Agency and Yorkshire Water. The project has an holistic approach to particulate transfers through the urban environment, from entrainment at source to eventual deposition within and beyond the immediate town or city. This broad approach is providing a means of focusing on important interfaces between urban and rural systems. The project is closely linked to a Urban Pollution Management survey of Bradford, Yorkshire and it is complementary to other large scale research. Start date/duration October 1998 Three years Lead Organisations CEH Wallingford University of Sheffield Deliverables  an improved understanding of urban sediment pathways, times of travel and pollutant loads  support for waste disposal strategies and remediation techniques to reduce pollution.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/nandan/git_repo/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<encodingDesc>
+			<appInfo>
+				<application version="0.4.1" ident="GROBID" when="2016-04-05T13:23+0000">
+					<ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Benchmark studies in the new Nottingham ABL wind tunnel: section model tests</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName>
+								<forename type="first">J</forename>
+								<forename type="middle">S</forename>
+								<surname>Owen</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">Faculty of Engineering</orgName>
+								<orgName type="institution">University of Nottingham</orgName>
+								<address>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">M</forename>
+								<surname>Mahmoodilari</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">Faculty of Engineering</orgName>
+								<orgName type="institution">University of Nottingham</orgName>
+								<address>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Benchmark studies in the new Nottingham ABL wind tunnel: section model tests</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<abstract>
+				<p>The University of Nottingham has recently built a new atmospheric boundary layer (ABL) wind tunnel. The tunnel has an open return section with a &quot; blow down &quot; configuration. It has a fetch of 12 m and a working section of 2.4 m by 1.8 m. The tunnel has been designed to have an operating speed of 0-15 m/s. Although it was designed primarily for simulating flows in the atmospheric boundary layer, it was intended to use the tunnel with roughness removed to perform section model tests on bridge decks etc. Therefore a series of tests have been performed on a 5:1 rectangular section to demonstrate the suitability of the tunnel for this kind of study.  Measurement of force coefficients in the range 10  Measurement of dynamic response due to buffeting and vortex shedding  Measurement of flutter derivatives The section model was constructed from aluminium with a length of 1.8m and cross section dimensions 76mm by 380mm. The model was set up 2m downstream of the contraction and the flow at deck level had a turbulence intensity less than 1%. For the force coefficient measurements, the model was mounted on four two component load cells that allowed lift, moment and drag to be calculated. For the other tests, the deck was mounted on a set of eight springs tuned to allow the deck to heave and pitch at set frequencies.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/nandan/git_repo/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<encodingDesc>
+			<appInfo>
+				<application version="0.4.1" ident="GROBID" when="2016-04-05T13:24+0000">
+					<ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Benchmark studies in the new Nottingham ABL wind tunnel: section model tests</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName>
+								<forename type="first">J</forename>
+								<forename type="middle">S</forename>
+								<surname>Owen</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">Faculty of Engineering</orgName>
+								<orgName type="institution">University of Nottingham</orgName>
+								<address>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">M</forename>
+								<surname>Mahmoodilari</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">Faculty of Engineering</orgName>
+								<orgName type="institution">University of Nottingham</orgName>
+								<address>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Benchmark studies in the new Nottingham ABL wind tunnel: section model tests</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<abstract>
+				<p>The University of Nottingham has recently built a new atmospheric boundary layer (ABL) wind tunnel. The tunnel has an open return section with a &quot; blow down &quot; configuration. It has a fetch of 12 m and a working section of 2.4 m by 1.8 m. The tunnel has been designed to have an operating speed of 0-15 m/s. Although it was designed primarily for simulating flows in the atmospheric boundary layer, it was intended to use the tunnel with roughness removed to perform section model tests on bridge decks etc. Therefore a series of tests have been performed on a 5:1 rectangular section to demonstrate the suitability of the tunnel for this kind of study.  Measurement of force coefficients in the range 10  Measurement of dynamic response due to buffeting and vortex shedding  Measurement of flutter derivatives The section model was constructed from aluminium with a length of 1.8m and cross section dimensions 76mm by 380mm. The model was set up 2m downstream of the contraction and the flow at deck level had a turbulence intensity less than 1%. For the force coefficient measurements, the model was mounted on four two component load cells that allowed lift, moment and drag to be calculated. For the other tests, the deck was mounted on a set of eight springs tuned to allow the deck to heave and pitch at set frequencies.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/nandan/git_repo/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<encodingDesc>
+			<appInfo>
+				<application version="0.4.1" ident="GROBID" when="2016-04-05T13:24+0000">
+					<ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Sediment Dynamics In Urban Systems -An Holistic Approach To Surface, Drain And Riverine Particulate Transport</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<title level="a" type="main">Sediment Dynamics In Urban Systems -An Holistic Approach To Surface, Drain And Riverine Particulate Transport</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<note>W2</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<abstract>
+				<p>Objectives The aim of this research project is to quantify and provide an improved understanding of the movements of particulate materials through urban systems. The project includes:  identifying sediment sources  assessing opportunities for storage  flow generation and routing, including travel times, through urban systems  measuring sediment outputs  applying hydrological and sediment transport models, eg Hydroworks and MOUSETRAP, to assess and integrate existing models with regard to operation over the full range of flows. Location Bradford Approach Archive data, field observations and integrated modelling are being used in collaboration with Unilever, the Environment Agency and Yorkshire Water. The project has an holistic approach to particulate transfers through the urban environment, from entrainment at source to eventual deposition within and beyond the immediate town or city. This broad approach is providing a means of focusing on important interfaces between urban and rural systems. The project is closely linked to a Urban Pollution Management survey of Bradford, Yorkshire and it is complementary to other large scale research. Start date/duration October 1998 Three years Lead Organisations CEH Wallingford University of Sheffield Deliverables  an improved understanding of urban sediment pathways, times of travel and pollutant loads  support for waste disposal strategies and remediation techniques to reduce pollution.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/nandan/git_repo/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<encodingDesc>
+			<appInfo>
+				<application version="0.4.1" ident="GROBID" when="2016-04-05T13:27+0000">
+					<ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Benchmark studies in the new Nottingham ABL wind tunnel: section model tests</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName>
+								<forename type="first">J</forename>
+								<forename type="middle">S</forename>
+								<surname>Owen</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">Faculty of Engineering</orgName>
+								<orgName type="institution">University of Nottingham</orgName>
+								<address>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">M</forename>
+								<surname>Mahmoodilari</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">Faculty of Engineering</orgName>
+								<orgName type="institution">University of Nottingham</orgName>
+								<address>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Benchmark studies in the new Nottingham ABL wind tunnel: section model tests</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<abstract>
+				<p>The University of Nottingham has recently built a new atmospheric boundary layer (ABL) wind tunnel. The tunnel has an open return section with a &quot; blow down &quot; configuration. It has a fetch of 12 m and a working section of 2.4 m by 1.8 m. The tunnel has been designed to have an operating speed of 0-15 m/s. Although it was designed primarily for simulating flows in the atmospheric boundary layer, it was intended to use the tunnel with roughness removed to perform section model tests on bridge decks etc. Therefore a series of tests have been performed on a 5:1 rectangular section to demonstrate the suitability of the tunnel for this kind of study.  Measurement of force coefficients in the range 10  Measurement of dynamic response due to buffeting and vortex shedding  Measurement of flutter derivatives The section model was constructed from aluminium with a length of 1.8m and cross section dimensions 76mm by 380mm. The model was set up 2m downstream of the contraction and the flow at deck level had a turbulence intensity less than 1%. For the force coefficient measurements, the model was mounted on four two component load cells that allowed lift, moment and drag to be calculated. For the other tests, the deck was mounted on a set of eight springs tuned to allow the deck to heave and pitch at set frequencies.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/nandan/git_repo/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<encodingDesc>
+			<appInfo>
+				<application version="0.4.1" ident="GROBID" when="2016-04-05T13:27+0000">
+					<ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Sediment Dynamics In Urban Systems -An Holistic Approach To Surface, Drain And Riverine Particulate Transport</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<title level="a" type="main">Sediment Dynamics In Urban Systems -An Holistic Approach To Surface, Drain And Riverine Particulate Transport</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<note>W2</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<abstract>
+				<p>Objectives The aim of this research project is to quantify and provide an improved understanding of the movements of particulate materials through urban systems. The project includes:  identifying sediment sources  assessing opportunities for storage  flow generation and routing, including travel times, through urban systems  measuring sediment outputs  applying hydrological and sediment transport models, eg Hydroworks and MOUSETRAP, to assess and integrate existing models with regard to operation over the full range of flows. Location Bradford Approach Archive data, field observations and integrated modelling are being used in collaboration with Unilever, the Environment Agency and Yorkshire Water. The project has an holistic approach to particulate transfers through the urban environment, from entrainment at source to eventual deposition within and beyond the immediate town or city. This broad approach is providing a means of focusing on important interfaces between urban and rural systems. The project is closely linked to a Urban Pollution Management survey of Bradford, Yorkshire and it is complementary to other large scale research. Start date/duration October 1998 Three years Lead Organisations CEH Wallingford University of Sheffield Deliverables  an improved understanding of urban sediment pathways, times of travel and pollutant loads  support for waste disposal strategies and remediation techniques to reduce pollution.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>
+

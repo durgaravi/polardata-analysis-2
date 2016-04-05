@@ -84,24 +84,37 @@ def extract(directory):
                         (authorout, err) = proc1.communicate()
                         
                         if len(authorout) > 1:
+                            print authorout
                             details_list = authorout.split('\n')
                             
 
                             for detail in details_list:
                                 
                                 if 'Title' in detail:
-                                    scholar_info.append(detail)
+                                    scholar_info.append(detail)                                    
                                 elif 'URL' in detail:
                                     scholar_info.append(detail)
                                 elif 'Cluster ID' in detail:
                                     scholar_info.append(detail)
                                 elif 'Citation List' in detail:
                                     scholar_info.append(detail) 
-
-                if scholar_info != []:              
-                    file_scholar_info ={ 'File : ' : file,
-                                       'Scholar Info : ' : scholar_info}
-                    print str(file_scholar_info['File : ']) + " : " + str(file_scholar_info['Scholar Info : '])
+                file_scholar_info = {}
+                
+                if scholar_info != []: 
+                    file_scholar_info['id'] = file             
+                    for info in scholar_info:
+                        print 'info' + str(info)
+                        
+                        if 'Title' in info:
+                            file_scholar_info['Title'] = info.split("Title",1)[1]
+                        elif 'URL' in info:
+                            file_scholar_info['URL'] = info.split("URL",1)[1]
+                        elif 'Cluster ID' in info:
+                            file_scholar_info['Cluster ID'] = info.split("Cluster ID",1)[1]
+                        elif 'Citation List' in detail:
+                            file_scholar_info['Citation List'] = info.split("Citation List",1)[1]
+                                    
+                    #print str(file_scholar_info['File : ']) + " : " + str(file_scholar_info['Scholar Info : '])
                     
 
                     file_scholar_mapping.append(file_scholar_info)
