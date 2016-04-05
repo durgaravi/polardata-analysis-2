@@ -1,0 +1,24 @@
+[
+  {
+  "name": "2E2CA42A97F8B79190A65638FF41930D086C5DD22C97E1C608486BC8C158FDAE",
+  "parent": "null",
+  "children": [
+    {
+      "name": "http://synapse.koreamed.org/DOIx.php?id=10.4250/jcu.2012.20.3.134",
+      "parent": "2E2CA42A97F8B79190A65638FF41930D086C5DD22C97E1C608486BC8C158FDAE",
+    },
+    {
+      "name": "http://www.google.com/patents/US20090278151",
+      "parent": "2E2CA42A97F8B79190A65638FF41930D086C5DD22C97E1C608486BC8C158FDAE"
+    },
+    {
+      "name": "http://www.sciencedirect.com/science/article/pii/S0045793013002132",
+      "parent": "2E2CA42A97F8B79190A65638FF41930D086C5DD22C97E1C608486BC8C158FDAE"
+    },
+    {
+      "name": "http://www.google.com/patents/US8278668",
+      "parent": "2E2CA42A97F8B79190A65638FF41930D086C5DD22C97E1C608486BC8C158FDAE"
+    }
+  ]
+}
+]

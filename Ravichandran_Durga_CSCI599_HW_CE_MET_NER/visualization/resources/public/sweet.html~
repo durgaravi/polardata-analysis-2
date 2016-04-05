@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+    text {
+    font-family: sans-serif;
+    font-size: 12px;
+    fill: white;
+}
+#tooltip {
+    position: absolute;
+    width: 200px;
+    height: auto;
+    padding: 10px;
+    background-color: white;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    -webkit-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+    -mox-box-shadow: 4px 4px 4px 10px rgba(0, 0, 0, 0.4);
+    box-shadow: 4px 4px 10px rbga(0, 0, 0, 0.4) pointer-events: none;
+}
+#tooltip.hidden {
+    opacity: 0;
+}
+#tooltip p {
+    margin: 0;
+    font-family: sans-serif;
+    font-size: 16px;
+    line-height: 20px;
+}
+</style>
+<body>
+<div id="tooltip" class="hidden">
+   <p><strong></strong>
+    </p>
+    <p><span id="value"></span></p>
+</div>
+
+<script src="//d3js.org/d3.v3.min.js"></script>
+<script>
+    //Width and height
+var w = 500;
+var h = 500;
+
+d3.json("sweet.json", function(error, data){
+    console.log(data);
+//console.log(data);
+var outerRadius = w / 3;
+var innerRadius = 0;
+var arc = d3.svg.arc()
+    .innerRadius(innerRadius)
+    .outerRadius(outerRadius);
+
+var pie = d3.layout.pie()
+        .value(function(d){return d.files.length});
+
+// Easy colors accessible via a 10-step ordinal scale
+var color = d3.scale.category10();
+
+// Create SVG element
+var svg = d3.select("body")
+    .append("svg")
+    .attr("width", w)
+    .attr("height", h)
+    .append("g")
+    .attr("transform", "translate(" + w/16  + "," + h/16  + ")");
+
+// Set up groups
+var g = svg.selectAll(".arc")
+    .data(pie(data))
+    .enter()
+    .append("g")
+    .attr("class", "arc")
+    .attr("transform", "translate(" + outerRadius + "," + outerRadius + ")")
+    .on("mouseover", function (d) {console.log(d.data.files.join(" "));
+    d3.select("#tooltip")
+        .style("left", d3.event.pageX + "px")
+        .style("top", d3.event.pageY + "px")
+        .style("opacity", 1)
+        .select("#value")
+        .text(d.data.files.join(" "));
+})
+    .on("mouseout", function () {
+    // Hide the tooltip
+    d3.select("#tooltip")
+        .style("opacity", 0);;
+});
+g.append("path")
+        .attr("d", arc)
+        .style("fill", function (d) {
+        return color(d.data.files.length);
+    });
+// Draw arc paths
+/*arcs.append("path")
+    .attr("fill", function (d, i) {
+    return color(i);
+})
+    .attr("d", arc);
+
+*/
+// Labels
+g.append("text")
+    .attr("transform", function (d) {
+    return "translate(" + arc.centroid(d) + ")";
+})
+    .attr("text-anchor", "middle")
+    .text(function (d) {
+    return d.data.label+"\t"+d.data.files.length;
+});
+
+});
+
+</script>
+</body>
