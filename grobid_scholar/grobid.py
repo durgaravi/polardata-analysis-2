@@ -98,22 +98,40 @@ def extract(directory):
                                     scholar_info.append(detail)
                                 elif 'Citation List' in detail:
                                     scholar_info.append(detail) 
+                                elif 'Excerpt' in detail:
+                                    scholar_info.append(detail)
+                                        
                 file_scholar_info = {}
-                
+                group = {}
+                related_info = []
+                flag = 0 
                 if scholar_info != []: 
                     file_scholar_info['id'] = file             
                     for info in scholar_info:
                         print 'info' + str(info)
+                            
                         
                         if 'Title' in info:
-                            file_scholar_info['Title'] = info.split("Title",1)[1]
+                            if flag != 0:
+                                flag = 0
+                                print 'group : ' + str(group)
+                                related_info.append(group)
+                                group = {}
+                            group['Title'] = info.split("Title",1)[1]
+                            flag = 1
                         elif 'URL' in info:
-                            file_scholar_info['URL'] = info.split("URL",1)[1]
+                            group['URL'] = info.split("URL",1)[1]
                         elif 'Cluster ID' in info:
-                            file_scholar_info['Cluster ID'] = info.split("Cluster ID",1)[1]
+                            group['Cluster ID'] = info.split("Cluster ID",1)[1]
                         elif 'Citation List' in detail:
-                            file_scholar_info['Citation List'] = info.split("Citation List",1)[1]
-                                    
+                            group['Citation List'] = info.split("Citation List",1)[1]
+                        elif 'Excerpt' in detail:
+                            group['Excerpt'] = info.split("Excerpt",1)[1]                                               
+                           
+                    related_info.append(group)       
+                    
+                    file_scholar_info['related_articles'] = related_info
+                                                            
                     #print str(file_scholar_info['File : ']) + " : " + str(file_scholar_info['Scholar Info : '])
                     
 
