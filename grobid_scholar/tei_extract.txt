@@ -1,0 +1,2851 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/nandan/git_repo/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<encodingDesc>
+			<appInfo>
+				<application version="0.4.1" ident="GROBID" when="2016-04-05T07:39+0000">
+					<ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Benchmark studies in the new Nottingham ABL wind tunnel: section model tests</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName>
+								<forename type="first">J</forename>
+								<forename type="middle">S</forename>
+								<surname>Owen</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">Faculty of Engineering</orgName>
+								<orgName type="institution">University of Nottingham</orgName>
+								<address>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">M</forename>
+								<surname>Mahmoodilari</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">Faculty of Engineering</orgName>
+								<orgName type="institution">University of Nottingham</orgName>
+								<address>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Benchmark studies in the new Nottingham ABL wind tunnel: section model tests</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<abstract>
+				<p>The University of Nottingham has recently built a new atmospheric boundary layer (ABL) wind tunnel. The tunnel has an open return section with a &quot; blow down &quot; configuration. It has a fetch of 12 m and a working section of 2.4 m by 1.8 m. The tunnel has been designed to have an operating speed of 0-15 m/s. Although it was designed primarily for simulating flows in the atmospheric boundary layer, it was intended to use the tunnel with roughness removed to perform section model tests on bridge decks etc. Therefore a series of tests have been performed on a 5:1 rectangular section to demonstrate the suitability of the tunnel for this kind of study.  Measurement of force coefficients in the range 10  Measurement of dynamic response due to buffeting and vortex shedding  Measurement of flutter derivatives The section model was constructed from aluminium with a length of 1.8m and cross section dimensions 76mm by 380mm. The model was set up 2m downstream of the contraction and the flow at deck level had a turbulence intensity less than 1%. For the force coefficient measurements, the model was mounted on four two component load cells that allowed lift, moment and drag to be calculated. For the other tests, the deck was mounted on a set of eight springs tuned to allow the deck to heave and pitch at set frequencies.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/nandan/git_repo/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<encodingDesc>
+			<appInfo>
+				<application version="0.4.1" ident="GROBID" when="2016-04-05T13:16+0000">
+					<ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Benchmark studies in the new Nottingham ABL wind tunnel: section model tests</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName>
+								<forename type="first">J</forename>
+								<forename type="middle">S</forename>
+								<surname>Owen</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">Faculty of Engineering</orgName>
+								<orgName type="institution">University of Nottingham</orgName>
+								<address>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">M</forename>
+								<surname>Mahmoodilari</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">Faculty of Engineering</orgName>
+								<orgName type="institution">University of Nottingham</orgName>
+								<address>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Benchmark studies in the new Nottingham ABL wind tunnel: section model tests</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<abstract>
+				<p>The University of Nottingham has recently built a new atmospheric boundary layer (ABL) wind tunnel. The tunnel has an open return section with a &quot; blow down &quot; configuration. It has a fetch of 12 m and a working section of 2.4 m by 1.8 m. The tunnel has been designed to have an operating speed of 0-15 m/s. Although it was designed primarily for simulating flows in the atmospheric boundary layer, it was intended to use the tunnel with roughness removed to perform section model tests on bridge decks etc. Therefore a series of tests have been performed on a 5:1 rectangular section to demonstrate the suitability of the tunnel for this kind of study.  Measurement of force coefficients in the range 10  Measurement of dynamic response due to buffeting and vortex shedding  Measurement of flutter derivatives The section model was constructed from aluminium with a length of 1.8m and cross section dimensions 76mm by 380mm. The model was set up 2m downstream of the contraction and the flow at deck level had a turbulence intensity less than 1%. For the force coefficient measurements, the model was mounted on four two component load cells that allowed lift, moment and drag to be calculated. For the other tests, the deck was mounted on a set of eight springs tuned to allow the deck to heave and pitch at set frequencies.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/nandan/git_repo/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<encodingDesc>
+			<appInfo>
+				<application version="0.4.1" ident="GROBID" when="2016-04-05T13:16+0000">
+					<ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Sediment Dynamics In Urban Systems -An Holistic Approach To Surface, Drain And Riverine Particulate Transport</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<title level="a" type="main">Sediment Dynamics In Urban Systems -An Holistic Approach To Surface, Drain And Riverine Particulate Transport</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<note>W2</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<abstract>
+				<p>Objectives The aim of this research project is to quantify and provide an improved understanding of the movements of particulate materials through urban systems. The project includes:  identifying sediment sources  assessing opportunities for storage  flow generation and routing, including travel times, through urban systems  measuring sediment outputs  applying hydrological and sediment transport models, eg Hydroworks and MOUSETRAP, to assess and integrate existing models with regard to operation over the full range of flows. Location Bradford Approach Archive data, field observations and integrated modelling are being used in collaboration with Unilever, the Environment Agency and Yorkshire Water. The project has an holistic approach to particulate transfers through the urban environment, from entrainment at source to eventual deposition within and beyond the immediate town or city. This broad approach is providing a means of focusing on important interfaces between urban and rural systems. The project is closely linked to a Urban Pollution Management survey of Bradford, Yorkshire and it is complementary to other large scale research. Start date/duration October 1998 Three years Lead Organisations CEH Wallingford University of Sheffield Deliverables  an improved understanding of urban sediment pathways, times of travel and pollutant loads  support for waste disposal strategies and remediation techniques to reduce pollution.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/nandan/git_repo/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<encodingDesc>
+			<appInfo>
+				<application version="0.4.1" ident="GROBID" when="2016-04-05T13:20+0000">
+					<ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Benchmark studies in the new Nottingham ABL wind tunnel: section model tests</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName>
+								<forename type="first">J</forename>
+								<forename type="middle">S</forename>
+								<surname>Owen</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">Faculty of Engineering</orgName>
+								<orgName type="institution">University of Nottingham</orgName>
+								<address>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">M</forename>
+								<surname>Mahmoodilari</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">Faculty of Engineering</orgName>
+								<orgName type="institution">University of Nottingham</orgName>
+								<address>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Benchmark studies in the new Nottingham ABL wind tunnel: section model tests</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<abstract>
+				<p>The University of Nottingham has recently built a new atmospheric boundary layer (ABL) wind tunnel. The tunnel has an open return section with a &quot; blow down &quot; configuration. It has a fetch of 12 m and a working section of 2.4 m by 1.8 m. The tunnel has been designed to have an operating speed of 0-15 m/s. Although it was designed primarily for simulating flows in the atmospheric boundary layer, it was intended to use the tunnel with roughness removed to perform section model tests on bridge decks etc. Therefore a series of tests have been performed on a 5:1 rectangular section to demonstrate the suitability of the tunnel for this kind of study.  Measurement of force coefficients in the range 10  Measurement of dynamic response due to buffeting and vortex shedding  Measurement of flutter derivatives The section model was constructed from aluminium with a length of 1.8m and cross section dimensions 76mm by 380mm. The model was set up 2m downstream of the contraction and the flow at deck level had a turbulence intensity less than 1%. For the force coefficient measurements, the model was mounted on four two component load cells that allowed lift, moment and drag to be calculated. For the other tests, the deck was mounted on a set of eight springs tuned to allow the deck to heave and pitch at set frequencies.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/nandan/git_repo/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<encodingDesc>
+			<appInfo>
+				<application version="0.4.1" ident="GROBID" when="2016-04-05T13:20+0000">
+					<ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Sediment Dynamics In Urban Systems -An Holistic Approach To Surface, Drain And Riverine Particulate Transport</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<title level="a" type="main">Sediment Dynamics In Urban Systems -An Holistic Approach To Surface, Drain And Riverine Particulate Transport</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<note>W2</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<abstract>
+				<p>Objectives The aim of this research project is to quantify and provide an improved understanding of the movements of particulate materials through urban systems. The project includes:  identifying sediment sources  assessing opportunities for storage  flow generation and routing, including travel times, through urban systems  measuring sediment outputs  applying hydrological and sediment transport models, eg Hydroworks and MOUSETRAP, to assess and integrate existing models with regard to operation over the full range of flows. Location Bradford Approach Archive data, field observations and integrated modelling are being used in collaboration with Unilever, the Environment Agency and Yorkshire Water. The project has an holistic approach to particulate transfers through the urban environment, from entrainment at source to eventual deposition within and beyond the immediate town or city. This broad approach is providing a means of focusing on important interfaces between urban and rural systems. The project is closely linked to a Urban Pollution Management survey of Bradford, Yorkshire and it is complementary to other large scale research. Start date/duration October 1998 Three years Lead Organisations CEH Wallingford University of Sheffield Deliverables  an improved understanding of urban sediment pathways, times of travel and pollutant loads  support for waste disposal strategies and remediation techniques to reduce pollution.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/nandan/git_repo/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<encodingDesc>
+			<appInfo>
+				<application version="0.4.1" ident="GROBID" when="2016-04-05T13:23+0000">
+					<ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Benchmark studies in the new Nottingham ABL wind tunnel: section model tests</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName>
+								<forename type="first">J</forename>
+								<forename type="middle">S</forename>
+								<surname>Owen</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">Faculty of Engineering</orgName>
+								<orgName type="institution">University of Nottingham</orgName>
+								<address>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">M</forename>
+								<surname>Mahmoodilari</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">Faculty of Engineering</orgName>
+								<orgName type="institution">University of Nottingham</orgName>
+								<address>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Benchmark studies in the new Nottingham ABL wind tunnel: section model tests</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<abstract>
+				<p>The University of Nottingham has recently built a new atmospheric boundary layer (ABL) wind tunnel. The tunnel has an open return section with a &quot; blow down &quot; configuration. It has a fetch of 12 m and a working section of 2.4 m by 1.8 m. The tunnel has been designed to have an operating speed of 0-15 m/s. Although it was designed primarily for simulating flows in the atmospheric boundary layer, it was intended to use the tunnel with roughness removed to perform section model tests on bridge decks etc. Therefore a series of tests have been performed on a 5:1 rectangular section to demonstrate the suitability of the tunnel for this kind of study.  Measurement of force coefficients in the range 10  Measurement of dynamic response due to buffeting and vortex shedding  Measurement of flutter derivatives The section model was constructed from aluminium with a length of 1.8m and cross section dimensions 76mm by 380mm. The model was set up 2m downstream of the contraction and the flow at deck level had a turbulence intensity less than 1%. For the force coefficient measurements, the model was mounted on four two component load cells that allowed lift, moment and drag to be calculated. For the other tests, the deck was mounted on a set of eight springs tuned to allow the deck to heave and pitch at set frequencies.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/nandan/git_repo/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<encodingDesc>
+			<appInfo>
+				<application version="0.4.1" ident="GROBID" when="2016-04-05T13:24+0000">
+					<ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Benchmark studies in the new Nottingham ABL wind tunnel: section model tests</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName>
+								<forename type="first">J</forename>
+								<forename type="middle">S</forename>
+								<surname>Owen</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">Faculty of Engineering</orgName>
+								<orgName type="institution">University of Nottingham</orgName>
+								<address>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">M</forename>
+								<surname>Mahmoodilari</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">Faculty of Engineering</orgName>
+								<orgName type="institution">University of Nottingham</orgName>
+								<address>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Benchmark studies in the new Nottingham ABL wind tunnel: section model tests</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<abstract>
+				<p>The University of Nottingham has recently built a new atmospheric boundary layer (ABL) wind tunnel. The tunnel has an open return section with a &quot; blow down &quot; configuration. It has a fetch of 12 m and a working section of 2.4 m by 1.8 m. The tunnel has been designed to have an operating speed of 0-15 m/s. Although it was designed primarily for simulating flows in the atmospheric boundary layer, it was intended to use the tunnel with roughness removed to perform section model tests on bridge decks etc. Therefore a series of tests have been performed on a 5:1 rectangular section to demonstrate the suitability of the tunnel for this kind of study.  Measurement of force coefficients in the range 10  Measurement of dynamic response due to buffeting and vortex shedding  Measurement of flutter derivatives The section model was constructed from aluminium with a length of 1.8m and cross section dimensions 76mm by 380mm. The model was set up 2m downstream of the contraction and the flow at deck level had a turbulence intensity less than 1%. For the force coefficient measurements, the model was mounted on four two component load cells that allowed lift, moment and drag to be calculated. For the other tests, the deck was mounted on a set of eight springs tuned to allow the deck to heave and pitch at set frequencies.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/nandan/git_repo/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<encodingDesc>
+			<appInfo>
+				<application version="0.4.1" ident="GROBID" when="2016-04-05T13:24+0000">
+					<ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Sediment Dynamics In Urban Systems -An Holistic Approach To Surface, Drain And Riverine Particulate Transport</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<title level="a" type="main">Sediment Dynamics In Urban Systems -An Holistic Approach To Surface, Drain And Riverine Particulate Transport</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<note>W2</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<abstract>
+				<p>Objectives The aim of this research project is to quantify and provide an improved understanding of the movements of particulate materials through urban systems. The project includes:  identifying sediment sources  assessing opportunities for storage  flow generation and routing, including travel times, through urban systems  measuring sediment outputs  applying hydrological and sediment transport models, eg Hydroworks and MOUSETRAP, to assess and integrate existing models with regard to operation over the full range of flows. Location Bradford Approach Archive data, field observations and integrated modelling are being used in collaboration with Unilever, the Environment Agency and Yorkshire Water. The project has an holistic approach to particulate transfers through the urban environment, from entrainment at source to eventual deposition within and beyond the immediate town or city. This broad approach is providing a means of focusing on important interfaces between urban and rural systems. The project is closely linked to a Urban Pollution Management survey of Bradford, Yorkshire and it is complementary to other large scale research. Start date/duration October 1998 Three years Lead Organisations CEH Wallingford University of Sheffield Deliverables  an improved understanding of urban sediment pathways, times of travel and pollutant loads  support for waste disposal strategies and remediation techniques to reduce pollution.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/nandan/git_repo/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<encodingDesc>
+			<appInfo>
+				<application version="0.4.1" ident="GROBID" when="2016-04-05T13:27+0000">
+					<ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Benchmark studies in the new Nottingham ABL wind tunnel: section model tests</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName>
+								<forename type="first">J</forename>
+								<forename type="middle">S</forename>
+								<surname>Owen</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">Faculty of Engineering</orgName>
+								<orgName type="institution">University of Nottingham</orgName>
+								<address>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">M</forename>
+								<surname>Mahmoodilari</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">Faculty of Engineering</orgName>
+								<orgName type="institution">University of Nottingham</orgName>
+								<address>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Benchmark studies in the new Nottingham ABL wind tunnel: section model tests</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<abstract>
+				<p>The University of Nottingham has recently built a new atmospheric boundary layer (ABL) wind tunnel. The tunnel has an open return section with a &quot; blow down &quot; configuration. It has a fetch of 12 m and a working section of 2.4 m by 1.8 m. The tunnel has been designed to have an operating speed of 0-15 m/s. Although it was designed primarily for simulating flows in the atmospheric boundary layer, it was intended to use the tunnel with roughness removed to perform section model tests on bridge decks etc. Therefore a series of tests have been performed on a 5:1 rectangular section to demonstrate the suitability of the tunnel for this kind of study.  Measurement of force coefficients in the range 10  Measurement of dynamic response due to buffeting and vortex shedding  Measurement of flutter derivatives The section model was constructed from aluminium with a length of 1.8m and cross section dimensions 76mm by 380mm. The model was set up 2m downstream of the contraction and the flow at deck level had a turbulence intensity less than 1%. For the force coefficient measurements, the model was mounted on four two component load cells that allowed lift, moment and drag to be calculated. For the other tests, the deck was mounted on a set of eight springs tuned to allow the deck to heave and pitch at set frequencies.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/nandan/git_repo/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<encodingDesc>
+			<appInfo>
+				<application version="0.4.1" ident="GROBID" when="2016-04-05T13:27+0000">
+					<ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Sediment Dynamics In Urban Systems -An Holistic Approach To Surface, Drain And Riverine Particulate Transport</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<title level="a" type="main">Sediment Dynamics In Urban Systems -An Holistic Approach To Surface, Drain And Riverine Particulate Transport</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<note>W2</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<abstract>
+				<p>Objectives The aim of this research project is to quantify and provide an improved understanding of the movements of particulate materials through urban systems. The project includes:  identifying sediment sources  assessing opportunities for storage  flow generation and routing, including travel times, through urban systems  measuring sediment outputs  applying hydrological and sediment transport models, eg Hydroworks and MOUSETRAP, to assess and integrate existing models with regard to operation over the full range of flows. Location Bradford Approach Archive data, field observations and integrated modelling are being used in collaboration with Unilever, the Environment Agency and Yorkshire Water. The project has an holistic approach to particulate transfers through the urban environment, from entrainment at source to eventual deposition within and beyond the immediate town or city. This broad approach is providing a means of focusing on important interfaces between urban and rural systems. The project is closely linked to a Urban Pollution Management survey of Bradford, Yorkshire and it is complementary to other large scale research. Start date/duration October 1998 Three years Lead Organisations CEH Wallingford University of Sheffield Deliverables  an improved understanding of urban sediment pathways, times of travel and pollutant loads  support for waste disposal strategies and remediation techniques to reduce pollution.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/nandan/git_repo/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<encodingDesc>
+			<appInfo>
+				<application version="0.4.1" ident="GROBID" when="2016-04-05T13:45+0000">
+					<ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">An actuator disk array within a turbulent Ekman boundary layer</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName>
+								<forename type="first">R</forename>
+								<surname>Johnstone</surname>
+							</persName>
+							<affiliation>
+								<orgName type="institution">University of Southampton</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Coleman</forename>
+							</persName>
+							<affiliation>
+								<orgName type="institution">University of Southampton</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">G</forename>
+								<forename type="middle">N</forename>
+							</persName>
+							<affiliation>
+								<orgName type="institution">University of Southampton</orgName>
+							</affiliation>
+						</author>
+						<title level="a" type="main">An actuator disk array within a turbulent Ekman boundary layer</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<abstract>
+				<p>DNS of a neutral turbulent Ekman layer containing an actuator disk array is performed, with a view to improving the understanding of the coupling between the atmospheric boundary layer and large arrays of horizontal-axis wind turbines. An infinite array is simulated using 64 disks in a periodic domain. The disks are represented by body forces and aligned with the time-dependent incoming flow. The same flow is also simulated with disks absent. Relative to the latter simulation, the peak shear stress is doubled and located at the top of the disks, rather than at the wall. With a disk spacing of 5 diameters, the array efficiency is reduced to below 30%, in approximate agreement with the predictions of simple models approximating the turbines as roughness. We observe that the Ekman spiral limits the vertical transport of kinetic energy. The disks increase the boundary-layer depth, and the ratio of the ageostrophic to the geostrophic velocity component within the boundary layer, so that the Ekman spiral becomes more pronounced. These effects are required for the satisfaction of the global kinetic energy balance; the power output of the array is linked to the integral of the ageostrophic velocity over the boundary-layer depth. At disk height, the power extracted by the disks is locally balanced largely by the turbulent transport of mean flow kinetic energy. However, the increased turbulence kinetic energy production attributed to the disks is a large fraction of the power abstracted by them. The results suggest that mixed tower heights might use the available resource more efficiently Mean velocity hodograph</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/nandan/git_repo/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<encodingDesc>
+			<appInfo>
+				<application version="0.4.1" ident="GROBID" when="2016-04-05T13:45+0000">
+					<ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Modeling of Transient Winds and their Load Effects on Structures</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName>
+								<forename type="first">Ahsan</forename>
+								<surname>Kareem</surname>
+							</persName>
+							<email>* kareem@nd.edu</email>
+							<affiliation>
+								<orgName type="department">Department of Civil &amp; Environmental Engineering &amp; Earth Sciences</orgName>
+								<orgName type="institution">University of Notre Dame Notre Dame</orgName>
+								<address>
+									<region>IN</region>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Modeling of Transient Winds and their Load Effects on Structures</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<abstract>
+				<p>Notwithstanding the developments made in recent decades in wind effects on structures, there is a need to revisit the current paradigms and to look for improved understanding concerning the nature of wind field, associated aerodynamics and the resulting load effects in light of the emerging themes: non-stationarity/non-homogeneity/transient wind events; mechanical/convective turbulence; unsteady/transient aerodynamics. Also, one needs to take note of recent advances in analysis and identification tools, modeling frameworks and model to full-scale monitoring of wind effects that promise to offer better understanding of the underlying complexities associated with the preceding theme. This paper discusses these issues and illustrates their significance as the next frontiers in wind engineering, current progress and activities at the NatHaz Modelling Laboratory to address this challenge.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/nandan/git_repo/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<encodingDesc>
+			<appInfo>
+				<application version="0.4.1" ident="GROBID" when="2016-04-05T13:45+0000">
+					<ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Benchmark studies in the new Nottingham ABL wind tunnel: section model tests</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName>
+								<forename type="first">J</forename>
+								<forename type="middle">S</forename>
+								<surname>Owen</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">Faculty of Engineering</orgName>
+								<orgName type="institution">University of Nottingham</orgName>
+								<address>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">M</forename>
+								<surname>Mahmoodilari</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">Faculty of Engineering</orgName>
+								<orgName type="institution">University of Nottingham</orgName>
+								<address>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Benchmark studies in the new Nottingham ABL wind tunnel: section model tests</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<abstract>
+				<p>The University of Nottingham has recently built a new atmospheric boundary layer (ABL) wind tunnel. The tunnel has an open return section with a &quot; blow down &quot; configuration. It has a fetch of 12 m and a working section of 2.4 m by 1.8 m. The tunnel has been designed to have an operating speed of 0-15 m/s. Although it was designed primarily for simulating flows in the atmospheric boundary layer, it was intended to use the tunnel with roughness removed to perform section model tests on bridge decks etc. Therefore a series of tests have been performed on a 5:1 rectangular section to demonstrate the suitability of the tunnel for this kind of study.  Measurement of force coefficients in the range 10  Measurement of dynamic response due to buffeting and vortex shedding  Measurement of flutter derivatives The section model was constructed from aluminium with a length of 1.8m and cross section dimensions 76mm by 380mm. The model was set up 2m downstream of the contraction and the flow at deck level had a turbulence intensity less than 1%. For the force coefficient measurements, the model was mounted on four two component load cells that allowed lift, moment and drag to be calculated. For the other tests, the deck was mounted on a set of eight springs tuned to allow the deck to heave and pitch at set frequencies.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/nandan/git_repo/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<encodingDesc>
+			<appInfo>
+				<application version="0.4.1" ident="GROBID" when="2016-04-05T13:45+0000">
+					<ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">CODE OF PRACTICE FOR Safe use of powered counterbalanced forklifts Published by SPRING Singapore 2 Bukit Merah Central</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<title level="a" type="main">CODE OF PRACTICE FOR Safe use of powered counterbalanced forklifts Published by SPRING Singapore 2 Bukit Merah Central</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<note>(ICS 53.060)</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/nandan/git_repo/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<encodingDesc>
+			<appInfo>
+				<application version="0.4.1" ident="GROBID" when="2016-04-05T13:46+0000">
+					<ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Inflow conditions for large-eddy simulations</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName>
+								<forename type="first">Yusik</forename>
+								<surname>Kim</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">Faculty of Engineering and the Environment</orgName>
+								<orgName type="institution">University of Southampton</orgName>
+								<address>
+									<postCode>SO17 1BJ</postCode>
+									<settlement>Southampton</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Zheng-Tong</forename>
+								<surname>Xie</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">Faculty of Engineering and the Environment</orgName>
+								<orgName type="institution">University of Southampton</orgName>
+								<address>
+									<postCode>SO17 1BJ</postCode>
+									<settlement>Southampton</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Ian</forename>
+								<forename type="middle">P</forename>
+								<surname>Castro</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">Faculty of Engineering and the Environment</orgName>
+								<orgName type="institution">University of Southampton</orgName>
+								<address>
+									<postCode>SO17 1BJ</postCode>
+									<settlement>Southampton</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Inflow conditions for large-eddy simulations</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>inflow condition</term>
+					<term>divergence free</term>
+					<term>pressure fluctuations</term>
+					<term>near wall turbulence</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>A new turbulent inflow condition for LES is designed and compared with an existing model [1]. Both models are applied on a plane channel flow and validated with a periodic boundary condition. The two models show similar performance in terms of flow development distance, see Fig. 1. The imposing location of the inflow conditions and pressure-velocity coupling procedure are modified to satisfy the divergence free condition which leads to significant reduction of un-physical pressure fluctuations. Quasi-streamwise vortices are modelled in the near wall turbulence and are imposed at the inlet which enhances the flow developments .</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/nandan/git_repo/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<encodingDesc>
+			<appInfo>
+				<application version="0.4.1" ident="GROBID" when="2016-04-05T13:46+0000">
+					<ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main"></title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/nandan/git_repo/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<encodingDesc>
+			<appInfo>
+				<application version="0.4.1" ident="GROBID" when="2016-04-05T13:46+0000">
+					<ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">W4 Using Urban Aquifers: Sustainability at Different Space and Time Scales</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<title level="a" type="main">W4 Using Urban Aquifers: Sustainability at Different Space and Time Scales</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<abstract>
+				<p>Objectives Using Birmingham as an example, this project is testing the suggestion that it should be possible to abstract potable quality water from several of the UK urban aquifers on a sustainable basis. The project is concentrating on the Triassic sandstone aquifer of the West Midlands. The main issues are related to the heterogeneity of pollutant sources, and the effects of geochemical, hydrochemical and hydraulic layering at regional, sub-regional and local scales. The project is developing and applying tools which take these issues into account. Location West Midlands Approach The project is addressing three main areas: evaluation of solute source fluxes; evaluation of advective transport of solutes; and evaluation of the effect of reactive interactions. Three scales are being considered:  urban-scale, where the aquifer is considered as one unit  suburban-scale, where solute transfers from one part of the aquifer to another are considered  borehole-scale, where solute fate in the immediate vicinity of the borehole is considered. Start date/duration November 1997-four years Lead Organisation University of Birmingham Deliverables  an assessment of the researchers&apos; hypothesis in the context of the Birmingham system, including GIS databases, models at three scales with the incorporation of geochemical issues for the first time  a general methodology for assessing urban aquifer exploitation, incorporating a GIS-based system for urban risk assessment, a general reactive solute transport model that will allow the influence of water levels on hydrochemistry to be explored, and a borehole model for use in detailed well catchment/protection zone mapping.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/nandan/git_repo/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<encodingDesc>
+			<appInfo>
+				<application version="0.4.1" ident="GROBID" when="2016-04-05T13:46+0000">
+					<ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Total 3-Ptr Rebounds ## Player FG-FGA FG-FGA FT-FTA Off Def Tot PF TP A TO Blk Stl Min</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName>
+								<forename type="first">Reese</forename>
+							</persName>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Jen</forename>
+							</persName>
+						</author>
+						<title level="a" type="main">Total 3-Ptr Rebounds ## Player FG-FGA FG-FGA FT-FTA Off Def Tot PF TP A TO Blk Stl Min</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<note>Official Basketball Box Score --Game Totals --Final Statistics Colorado vs USC 2/8/15 12 p.m. at Galen Center (Los Angeles, Calif.) Colorado 51  10-13, 3-9</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/nandan/git_repo/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.4.1" ident="GROBID" when="2016-04-05T13:47+0000">
+					<ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main"></title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<note type="submission">Updated April 3rd, 2014</note>
+					<note>AddThis Healthcare Information Collected Health &gt; Health and Beauty Health &gt; Health and Beauty &gt; Fitness Health &gt; Health and Beauty &gt; Yoga Health &gt; Health and Medical Health &gt; Health and Medical &gt; Health Conditions Health &gt; Health and Medical &gt; Health Conditions &gt; Aches &amp; Pains Health &gt; Health and Medical &gt; Health Conditions &gt; Allergies Health &gt; Health and Medical &gt; Health Conditions &gt; Cold &amp; Flu Health &gt; Health and Medical &gt; Health Conditions &gt; Hearing Health &gt; Health and Medical &gt; Health Conditions &gt; Indigestion Health &gt; Health and Medical &gt; Healthcare Health &gt; Health and Medical &gt; Medical Terms Health &gt; Health and Medical &gt; Medical Terms &gt; General Practice Health &gt; Health and Medical &gt; Medical Terms &gt; Medical Facilities Health &gt; Health and Medical &gt; Medical Terms &gt; Medical Procedures Health &gt; Health and Medical &gt; Medical Terms &gt; Nurse Health &gt; Health and Medical &gt; Medicine Health &gt; Health and Medical &gt; Medicine &gt; Cold and Flu Health &gt; Health and Medical &gt; Medicine &gt; Vision Health &gt; Health and Medical &gt; Specialties Health &gt; Health and Medical &gt; Specialties &gt; Dentistry Health &gt; Health and Medical &gt; Specialties &gt; Dermatology Health &gt; Health and Medical &gt; Specialties &gt; Optometry &amp; Ophthalmology Health &gt; Health and Medical &gt; Specialties &gt; Orthopedic Health &gt; Health and Medical &gt; Specialties &gt; Pediatry Health &gt; Health and Wellness Health &gt; Health and Wellness &gt; First Aid Health &gt; Health and Wellness &gt; Healthcare Health &gt; Health and Wellness &gt; Homeopathy Health &gt; Health and Wellness &gt; Massage &amp; Spa Health &gt; Health and Wellness &gt; Nutrition Health &gt; Health and Wellness &gt; Vitamins &amp; Minerals Health &gt; Health and Wellness &gt; Weight Loss Health &gt; Social Health &gt; Social &gt; Health Influencers Health &gt; Social &gt; Health Shoppers Health &gt; Social &gt; Health Video Engagers</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<text>
+	</text>
+</TEI>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/nandan/git_repo/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<encodingDesc>
+			<appInfo>
+				<application version="0.4.1" ident="GROBID" when="2016-04-05T13:47+0000">
+					<ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Identification of aeroelastic forces on twin bridge cables from full-scale measurements in skew winds</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName>
+								<forename type="first">A</forename>
+								<surname>Acampora</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department" key="dep1">Department of Civil Engineering</orgName>
+								<orgName type="department" key="dep2">Department of Civil Engineering</orgName>
+								<orgName type="institution">Technical University of Denmark IPU</orgName>
+								<address>
+									<addrLine>Building 404</addrLine>
+									<postCode>2800</postCode>
+									<settlement>Kgs. Lyngby</settlement>
+									<country key="DK">Denmark</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">J</forename>
+								<forename type="middle">H G</forename>
+								<surname>Macdonald</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">Department of Civil Engineering</orgName>
+								<orgName type="laboratory">Queen&apos;s Building, University Walk, Bristol</orgName>
+								<orgName type="institution">University of Bristol</orgName>
+								<address>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">N</forename>
+								<surname>Nikitas</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">Department of Civil Engineering</orgName>
+								<orgName type="laboratory">Queen&apos;s Building, University Walk, Bristol</orgName>
+								<orgName type="institution">University of Bristol</orgName>
+								<address>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">C</forename>
+								<forename type="middle">T</forename>
+								<surname>Georgakis</surname>
+							</persName>
+							<affiliation>
+								<orgName type="institution">Technical University of Denmark</orgName>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Identification of aeroelastic forces on twin bridge cables from full-scale measurements in skew winds</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<abstract>
+				<p>Despite much research in recent years, large amplitude vibrations of inclined bridge cables continue to be of concern. Various mechanisms for the excitation have been suggested, including rain-wind excitation, dry inclined cable galloping, high reduced-velocity vortex shedding and excitation from the deck and/or towers. Much of the research on these topics has been based on wind tunnel tests and theoretical modelling. Although cable vibrations have frequently been observed on actual bridges, there are still relatively few cases where extensive field measurements have been made. Since 2010, the Danish Technical University has been monitoring the vibrations of the inclined twin cables of the resund Bridge, which connects Denmark and Sweden. Data have been collected in a wide range of environmental conditions. From the acquired data, Georgakis and Acampora [1] determined the aerodynamic damping for wind orthogonal to the twin cables, in both dry and wet conditions. Furthermore, Acampora et al. [2] analysed data for multiple modes of the same cables in dry conditions and showed that the aeroelastic forces appear to be a function of Reynolds number rather than reduced velocity and that there was reasonable agreement of the results with quasi-steady theory. Only cases of wind orthogonal to the cables in dry conditions were considered, giving uncoupled behaviour of in-plane and out-of-plane cable vibrations , as expected. Extending the previous work, the aim of this paper is to present the aeroelas-tic forces identified from the full-scale data on the twin bridge cables in skewed winds. This gives three-dimensional flow around the inclined cables and is expected to cause aeroelastic coupling of the in-plane and out-of-plane vibrations. An output-only system identification method employing the Eigenvalue Realisation Algorithm (ERA) has been applied to selected vibration events. From this, the effective stiffness and damping matrices, and hence the coupled aeroelastic forces have been identified from the measured cable vibrations. Of particular interest is evidence of aeroelastic coupling in skew winds, contrary to what has been found for wind orthogonal to the cables, and reductions in the aerodynamic damping in the vicinity of the critical Reynolds number range. Finally the identified aeroelastic forces are related to possible excita-tion mechanisms of the cables.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/nandan/git_repo/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<encodingDesc>
+			<appInfo>
+				<application version="0.4.1" ident="GROBID" when="2016-04-05T13:47+0000">
+					<ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Integrated outdoor-indoor Dispersion Modelling of Hazardous releases in the Urban Environment</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<title level="a" type="main">Integrated outdoor-indoor Dispersion Modelling of Hazardous releases in the Urban Environment</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<abstract>
+				<p>The potential effects resulting from accidental or intentional releases of hazardous materials in urban environments and how to respond to them pose substantial practical and scientific challenges. The importance of these has been recognised by the setting up of COST Action ES1006 &apos;Evaluation, improvement and guidance for the use of local-scale emergency prediction and response tools for airborne hazards in built environments&apos;. One of the primary drivers for the action is that there are a large number of different types of release that could potentially occur in the built environment, and there is a need to be able answer a wide range of questions, depending upon the nature of the incident. These questions might include identification of evacuation routes and a need to advise people whether to evacuate or shelter within buildings, for example. At present answering the second question is difficult as it requires a combined outdoor indoor prediction that accounts for the infiltration and exfiltration of material from buildings. There is also the potential need to be able to predict the external impact of releases made inside buildings. Whilst a large number of outdoor and indoor dispersion models of varying complexity exist, the capability has not existed so far to provide rapid hazard predictions in complex scenarios in which outdoor-to-indoor or indoor-to-outdoor dispersion effects are important. This gap is being addressed by the creation of an Urban SubSystem (USS) within the US Defense Threat Reduction Agency (DTRA) Hazard Prediction and Assessment Capability (HPAC). The approach adopted enables coupled outdoor-indoor simulations to be performed by selecting models for inclusion in the modelling chain in a plug-and-play manner that enables the user to select the most appropriate models based on their requirements for timeliness, accuracy or the information they have available. Whilst access to a range of models is one component of the USS, the availability of a database containing urban building information for the area of interest is an important prerequisite for sophisticated urban dispersion modelling. Within the USS as well as providing the basic characteristics of the urban environment, the urban database also provides the means for introducing indoor building models into the simulation. This is either through the database holding the actual data required for indoor models, or data for pointing the simulation to the required data. Furthermore, the USS may call an urban windfield solver to evaluate the external pressures around buildings to define the boundary conditions for the indoor models. The prototype USS potentially provides an important step forward in developing tools for emergency guidance and response, through enabling outdoor and indoor models to be coupled together. In addition, it provides a valuable tool for identifying the relative benefits of different models, modelling issues that need to be addressed and a provides a useful basis for determining how the a broader range of questions that first responders might ask can best be answered. Acknowledgement</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/nandan/git_repo/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.4.1" ident="GROBID" when="2016-04-05T13:47+0000">
+					<ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main"></title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<text>
+	</text>
+</TEI>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/nandan/git_repo/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<encodingDesc>
+			<appInfo>
+				<application version="0.4.1" ident="GROBID" when="2016-04-05T13:47+0000">
+					<ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Nomination Form</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<title level="a" type="main">Nomination Form</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<note>Heritage Life-time Achievement Award Arts Life-time Achievement Award</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/nandan/git_repo/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<encodingDesc>
+			<appInfo>
+				<application version="0.4.1" ident="GROBID" when="2016-04-05T13:47+0000">
+					<ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Sediment Dynamics In Urban Systems -An Holistic Approach To Surface, Drain And Riverine Particulate Transport</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<title level="a" type="main">Sediment Dynamics In Urban Systems -An Holistic Approach To Surface, Drain And Riverine Particulate Transport</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<note>W2</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<abstract>
+				<p>Objectives The aim of this research project is to quantify and provide an improved understanding of the movements of particulate materials through urban systems. The project includes:  identifying sediment sources  assessing opportunities for storage  flow generation and routing, including travel times, through urban systems  measuring sediment outputs  applying hydrological and sediment transport models, eg Hydroworks and MOUSETRAP, to assess and integrate existing models with regard to operation over the full range of flows. Location Bradford Approach Archive data, field observations and integrated modelling are being used in collaboration with Unilever, the Environment Agency and Yorkshire Water. The project has an holistic approach to particulate transfers through the urban environment, from entrainment at source to eventual deposition within and beyond the immediate town or city. This broad approach is providing a means of focusing on important interfaces between urban and rural systems. The project is closely linked to a Urban Pollution Management survey of Bradford, Yorkshire and it is complementary to other large scale research. Start date/duration October 1998 Three years Lead Organisations CEH Wallingford University of Sheffield Deliverables  an improved understanding of urban sediment pathways, times of travel and pollutant loads  support for waste disposal strategies and remediation techniques to reduce pollution.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/nandan/git_repo/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<encodingDesc>
+			<appInfo>
+				<application version="0.4.1" ident="GROBID" when="2016-04-05T13:48+0000">
+					<ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Monitoring Urban Land-Use and Morphology Using Remote Sensing and Geographical Information Systems (GIS)</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<affiliation>
+								<orgName>University of Bristol University of Wales Swansea</orgName>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Monitoring Urban Land-Use and Morphology Using Remote Sensing and Geographical Information Systems (GIS)</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<note type="submission">Start date/duration October 1998 Three years Lead Organisations</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<abstract>
+				<p>Objectives  monitor urban land cover and land use using satellite-sensor images  characterise urban land cover and land use morphology using new measurement tools and GIS. Location South Wales and Bristol Approach The project has a generic approach and is divided into a number of component parts:  production of accurate land cover maps from high spatial resolution multispectral images and ancillary sources of &apos;framework&apos; data  assessment of the quality of intra-urban vegetation based on linear (spectral) mixture modelling and &apos;red-edge&apos; position techniques  development and evaluation of graph-based structural pattern recognition techniques to identify and delineate areas of different land use from high spatial resolution optical images  evaluation of new, interferometric Synthetic Aperture Radar datasets as a means of delineating urban areas and identifying different types of urban land use  analysis of the derived datasets to investigate the ways in which urban and peri-urban land cover and land use (industrial, commercial, retail, residential, brownfield and green spaces) are structured, focusing on the underlying order and spatial structure that characterises the apparently irregular geometry of urban land use  use of the detailed land use classifications to drive land use based transportation models to inform studies of urban ecology-through the study of landscape pattern, including the spatial distribution and morphology of urban green space and the impacts of its increasing fragmentation. Deliverables This project will deliver a robust and appropriate approach to urban inventory analysis, developed and applied using a detailed case study within South Wales, extended eastwards from Cardiff to include the Bristol area.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/nandan/git_repo/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<encodingDesc>
+			<appInfo>
+				<application version="0.4.1" ident="GROBID" when="2016-04-05T13:48+0000">
+					<ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Modeling of Transient Winds and their Load Effects on Structures</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName>
+								<forename type="first">Ahsan</forename>
+								<surname>Kareem</surname>
+							</persName>
+							<email>* kareem@nd.edu</email>
+							<affiliation>
+								<orgName type="department">Department of Civil &amp; Environmental Engineering &amp; Earth Sciences</orgName>
+								<orgName type="institution">University of Notre Dame Notre Dame</orgName>
+								<address>
+									<region>IN</region>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Modeling of Transient Winds and their Load Effects on Structures</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<abstract>
+				<p>Notwithstanding the developments made in recent decades in wind effects on structures, there is a need to revisit the current paradigms and to look for improved understanding concerning the nature of wind field, associated aerodynamics and the resulting load effects in light of the emerging themes: non-stationarity/non-homogeneity/transient wind events; mechanical/convective turbulence; unsteady/transient aerodynamics. Also, one needs to take note of recent advances in analysis and identification tools, modeling frameworks and model to full-scale monitoring of wind effects that promise to offer better understanding of the underlying complexities associated with the preceding theme. This paper discusses these issues and illustrates their significance as the next frontiers in wind engineering, current progress and activities at the NatHaz Modelling Laboratory to address this challenge.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/nandan/git_repo/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<encodingDesc>
+			<appInfo>
+				<application version="0.4.1" ident="GROBID" when="2016-04-05T13:48+0000">
+					<ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">The use of environmental monitoring to estimate diffuse emissions from storage tanks</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName>
+								<forename type="first">Alan</forename>
+								<surname>Robins</surname>
+							</persName>
+							<affiliation>
+								<orgName type="institution">University of Surrey</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Paul</forename>
+								<surname>Hayden</surname>
+							</persName>
+							<affiliation>
+								<orgName type="institution">University of Surrey</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Andrew</forename>
+								<surname>Burt</surname>
+							</persName>
+							<affiliation>
+								<orgName type="institution">University of Surrey</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Peter</forename>
+								<surname>Roberts</surname>
+								<roleName>Concawe</roleName>
+							</persName>
+							<affiliation>
+								<orgName type="institution">University of Surrey</orgName>
+							</affiliation>
+						</author>
+						<title level="a" type="main">The use of environmental monitoring to estimate diffuse emissions from storage tanks</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<abstract>
+				<p>The aim of inverse dispersion modelling is to use a set of concentration measurements to estimate the location, strength and composition of the responsible emission or emissions. This information is combined with wind data and a dispersion model, and an iterative procedure adopted to seek the best fit between the observations and the concentration field calculated from the estimated source terms. The process can work very effectively for dispersion from a steady source over open terrain but in, say, many urban and industrial cases is compromised by the complexity of the dispersion processes and the consequent limited quality of available dispersion models. A further and very important constraint in practice is also the high levels of uncertainty that may be attached to the concentration data themselves. The particular application of interest here is that of diffuse emissions from oil and product storage tanks, for which there is no reliable, fast-running, short-range dispersion model. Nevertheless, monitoring is undertaken at short range (for a number of good reasons) and there is a clear need to understand the levels of uncertainty that this imposes on any estimation of source terms. Flow and dispersion downwind of storage tanks is a complex function of the tank shape, group configuration, source position and, for floating roof tanks, the roof height. The subject has been studied to a considerably lesser degree than the equivalent building and urban dispersion problems. What previous research there is has concentrated more on fixed roof cases, though some work has been undertaken with floating roof tanks. However, the picture is far from complete and the aim of the wind tunnel experiments (with single tanks and groups of tanks) was to remedy this deficiency and, at the same time, quantify the variability in dispersion behaviour and inform protocols that would lead to successful source evaluation in the field. The first phase of the study treated point concentration measurements and the overall objectives were fourfold: i) to clarify the role of tank geometry and arrangement, floating roof height and source location on flow and dispersion downwind, ii) to quantify the fetch required for near-field effects to decay, iii) to provide detailed data sets that could be used to evaluate the performance of CFD simulations of selected cases, and iv) to inform the development of protocols for making reliable measurements at full scale. However, line integrated measurements are often used in the field and the second phase of the work focused on the statistics of line integrated concentrations in dispersing plumes. The methodology involved the measurement of two-point concentration fluctuation correlations, so that much additional information was obtained along the way. The overall objective of the second phase was to obtain the</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/nandan/git_repo/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<encodingDesc>
+			<appInfo>
+				<application version="0.4.1" ident="GROBID" when="2016-04-05T13:48+0000">
+					<ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Scottsdale Medical Imaging &quot; Makes Patients for Life &quot; with TeleVox Notifications</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<title level="a" type="main">Scottsdale Medical Imaging &quot; Makes Patients for Life &quot; with TeleVox Notifications</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/nandan/git_repo/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<encodingDesc>
+			<appInfo>
+				<application version="0.4.1" ident="GROBID" when="2016-04-05T13:48+0000">
+					<ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">A large-eddy simulation study of thermal effects on urban flows</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName>
+								<forename type="first">V</forename>
+								<forename type="middle">B L</forename>
+								<surname>Boppana</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">Faculty of Engineering</orgName>
+								<orgName type="institution">Environment University of Southampton</orgName>
+								<address>
+									<settlement>Southampton</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Z-T</forename>
+								<surname>Xie</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">Faculty of Engineering</orgName>
+								<orgName type="institution">Environment University of Southampton</orgName>
+								<address>
+									<settlement>Southampton</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">I</forename>
+								<forename type="middle">P</forename>
+								<surname>Castro</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">Faculty of Engineering</orgName>
+								<orgName type="institution">Environment University of Southampton</orgName>
+								<address>
+									<settlement>Southampton</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">A large-eddy simulation study of thermal effects on urban flows</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<abstract>
+				<p>The flow and dispersion around buildings in urban areas is governed by the atmospheric as well as the local stability. The latter can be a result of longer duration of solar incidence on the buildings. Therefore, to understand the changes in flow dynamics due to the heated surfaces of the buildings, a simple case study was undertaken for validation [Richards et al, J Wind Eng Ind Aerodyn, 2006], in which &apos;only&apos; the leeward side of a building was strongly heated. The simulations showed that at high local Richardson number, Ri =-2, the heat transfer coefficient from the leeward surface exceeded that from the roof. This suggests that the buoyancy forces dominate the strong shear on the roof top. Quadrant analysis showed that buoyancy enhances the strength of sweeps in the shear layer behind the cube due to stronger downward fluctuations which is a result of in-rush of cold air from upstream. These mechanisms will certainly influence the pollutant transport in urban areas. In another set of computations on flow past an array of buildings, the preliminary results showed that the momentum coefficient was gradually enhanced with increase in ground heating. This will affect the pollutant dispersion, especially at the street level. We will be simulating the heat transfer at the neighbourhood scale (~ 1 km), which then would provide better parameterisation, e.g. drag and heat transfer coefficients for the mesoscale models. Acknowledgements: All the computations were done using CD-adapco&apos;s STAR-CD on IRIDIS (University&apos;s supercomputer) and HECToR (U.K&apos;s supercomputer).</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/nandan/git_repo/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.4.1" ident="GROBID" when="2016-04-05T13:48+0000">
+					<ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main"></title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<note>Wiley Publishing Decision Tree for RCUK funded research 13 -5 2 5 8 7</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<text>
+	</text>
+</TEI>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/nandan/git_repo/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<encodingDesc>
+			<appInfo>
+				<application version="0.4.1" ident="GROBID" when="2016-04-05T13:49+0000">
+					<ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">REQUEST FOR ELECTRONIC TEXT FOR USE BY STUDENT WITH DISABILITY</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<title level="a" type="main">REQUEST FOR ELECTRONIC TEXT FOR USE BY STUDENT WITH DISABILITY</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<note>To request an electronic text for a student with a verified disability, please print this form, make sure all sections are complete, and fax it to BiblioVault, at (773) 702-2704. If available, your text should be delivered within two weeks. For inquiries about pending requests or deliveries, please contact kdavey@press.uchicago.edu. BOOK INFORMATION ISBN ___________________________________________________________ Title ___________________________________________________________ Author ___________________________________________________________ Copyright ________________________________________________________ Edition ___________________________________________________________ COORDINATOR OF SERVICES / ADA COMPLIANCE OFFICIAL&apos;S INFORMATION Name ___________________________________________________________ E-mail ___________________________________________________________ Phone Number ___________________________________________________________ University, College, or Campus ______________________________________________ Address ___________________________________________________________ City, State, Zip ___________________________________________________________</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/nandan/git_repo/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<encodingDesc>
+			<appInfo>
+				<application version="0.4.1" ident="GROBID" when="2016-04-05T13:49+0000">
+					<ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Journal of Flood Risk Management</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<title level="a" type="main">Journal of Flood Risk Management</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1111/j.1753-318X.2009.01028.x</idno>
+					<note>E D I T O R I A L</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<abstract>
+				<p>While flash floods have deadly impacts worldwide they are poorly observed relative to large-scale river floods. Following the recent paper by Gaume and Borga (2008) that provides detailed guidelines for postflood field investigations we ask: &apos;What is the status of current flash flood observation capabilities and what are some specific strategies to expand our databases?&apos; For several reasons scientific understanding of flash flood impacts is limited. Short lead times, localized areas of impact, and confusion over what events are defined as flash floods (debris flows, landslides, intense posthurricane rain-falls, river response o 6 h from intense rainfall), our flash flood knowledge is primarily based on detailed postevent investigations to estimate flood magnitude, timing, and sediment transfer. Case studies improve our scientific understanding of rainfallrunoff processes, but are limited in scope to the specificity of the extreme magnitude of the events, the geomorphology of the region impacted, and antecedent conditions of the atmosphere, land surface, streams, soils, and underlying aquifers. Much remains to be known about the spatial extent, frequency, and magnitude, i.e. climatology, of flash floods. Maddox et al. summed up the state of flash flood climatolo-gies in 1979 and his words still apply: &apos;Unfortunately, reports of flash floods are often vague, many flash flood events are probably never reported, and there is no national [US] database for collecting flash flood reports&apos;. A statistical understanding of flash flood frequencies can be used to improve the skill of prediction models. Moreover, we need to know the state of flash flood climatologies in today&apos;s world to anticipate the societal impacts of flash floods in future scenarios of climatic, demographic, and land use changes. What kind of data can be used to derive flash flood climatology maps? Flood hydrograph reconstruction is possible through field investigations ex post facto as discussed by Gaume and Borga and also with instruments that report in real time, situated in or near streams and onboard satellites. In situ stream velocity and stage measurements have the benefits of providing a quantitative metric of stream discharge, are taken at high temporal resolution, i.e. on the order of minutes, and as such can be used to compute flash flood frequency statistics. These instruments are rather limited in their spatial coverage and they require regular maintenance, support, and a means to communicate or store their data. More cost-effective methods of measuring stream discharge through remote sensing include acoustic Doppler profilers. The use of these instruments for field studies has been demonstrated, and their deployment in operational networks will improve the spatial density of discharge measurements at the flash flood scale. In the last decade, remote sensing of surface water has been demonstrated through satellite-based retrievals. Observations are available with a spatial resolution on the order of tens of kilometers with a near-daily frequency, depending on cloud conditions. The major advantages of space-borne water surface area detection is the possibility for global coverage, data formatting is standard, and there is real-time data access without regard to political boundaries. The utility of space-borne measurement of floods will certainly increase with future missions and better spatio-temporal resolution, but for the time being, the near-daily satellite passes is insufficient for estimating peak flows associated with flash floods.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/nandan/git_repo/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<encodingDesc>
+			<appInfo>
+				<application version="0.4.1" ident="GROBID" when="2016-04-05T13:49+0000">
+					<ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Total 3-Ptr Rebounds ## Player FG-FGA FG-FGA FT-FTA Off Def Tot PF TP A TO Blk Stl Min</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<title level="a" type="main">Total 3-Ptr Rebounds ## Player FG-FGA FG-FGA FT-FTA Off Def Tot PF TP A TO Blk Stl Min</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<note>Official Basketball Box Score --Game Totals --Final Statistics Colorado vs Oregon State 2/21/15 8:00 PM at Corvallis, Ore. (Gill Coliseum) Colorado 58  12-14, 5-9 01</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/nandan/git_repo/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<encodingDesc>
+			<appInfo>
+				<application version="0.4.1" ident="GROBID" when="2016-04-05T13:49+0000">
+					<ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Rehabilitation of Urban Rivers: Modelling the Ecological Risks of River Sediments</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<title level="a" type="main">Rehabilitation of Urban Rivers: Modelling the Ecological Risks of River Sediments</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<note>W/e8</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<abstract>
+				<p>Objectives This project is a development of another URGENT Project on the River Thame-Modelling River Corridors: the scientific basis for rehabilitation of urban rivers (MRC)-addressing an additional boundary condition for river rehabilitation, the mobilisation and bio-availability of sediment-associated contaminants in relation to flow, water quality and channel structure. The project comprises three research tasks: 1. Measurement and modelling of sediment-associated contaminant fluxes Fine particulate sediments are important in controlling the flux of nutrients and contaminants in rivers. However there is currently a paucity of field based information on the dynamics of contaminant transfer between the sediments and the water column. 2. Measurement and modelling of the role of biota on sediment-water chemical fluxes A range of organisms associated with sediments, both interstitial and surface dwellers, play a major part in locking up and mobilising contaminants. Algal biofilms moderate the sediment water exchange and are variable in species composition spatially and temporally. The overall role of biota in sediment water processes is little known at present. 3. Development of a module to assess the ecological risk of urban river sediments This part of the project aims to integrate the data from parts 1 and 2 into a module providing an analysis of sediment associated pollutant dynamics. The primary scientific objective is to model the ecological risks associated with urban river sediments. Location West Midlands Approach Measurement and modelling of sediment-associated contaminant fluxes Field data obtained from selected reaches of the River Thame will be combined with laboratory data and data from other sources/monitoring programmes. The data will be used to obtain information on, sediment-water partitioning of contaminants, particle size and chemical speciation, particulate movement, timing of resuspension events and calculation of loads and fluxes. Measurement and modelling of the role of biota on sediment-water chemical fluxes Fluxes of the selected contaminates will be investigated on different sediment types in fluvaria and mesocosms. Studies will include the influence of burrowers and sediment surface grazers. Development of a module to assess the ecological risk of urban river sediments Data from tasks 1 and 2 will be integrated to provide an analysis of sediment associated pollutant dynamics.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/nandan/git_repo/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<encodingDesc>
+			<appInfo>
+				<application version="0.4.1" ident="GROBID" when="2016-04-05T13:49+0000">
+					<ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Monitoring Urban Land-Use and Morphology Using Remote Sensing and Geographical Information Systems (GIS)</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<affiliation>
+								<orgName>University of Bristol University of Wales Swansea</orgName>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Monitoring Urban Land-Use and Morphology Using Remote Sensing and Geographical Information Systems (GIS)</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<note type="submission">Start date/duration October 1998 Three years Lead Organisations</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<abstract>
+				<p>Objectives  monitor urban land cover and land use using satellite-sensor images  characterise urban land cover and land use morphology using new measurement tools and GIS. Location South Wales and Bristol Approach The project has a generic approach and is divided into a number of component parts:  production of accurate land cover maps from high spatial resolution multispectral images and ancillary sources of &apos;framework&apos; data  assessment of the quality of intra-urban vegetation based on linear (spectral) mixture modelling and &apos;red-edge&apos; position techniques  development and evaluation of graph-based structural pattern recognition techniques to identify and delineate areas of different land use from high spatial resolution optical images  evaluation of new, interferometric Synthetic Aperture Radar datasets as a means of delineating urban areas and identifying different types of urban land use  analysis of the derived datasets to investigate the ways in which urban and peri-urban land cover and land use (industrial, commercial, retail, residential, brownfield and green spaces) are structured, focusing on the underlying order and spatial structure that characterises the apparently irregular geometry of urban land use  use of the detailed land use classifications to drive land use based transportation models to inform studies of urban ecology-through the study of landscape pattern, including the spatial distribution and morphology of urban green space and the impacts of its increasing fragmentation. Deliverables This project will deliver a robust and appropriate approach to urban inventory analysis, developed and applied using a detailed case study within South Wales, extended eastwards from Cardiff to include the Bristol area.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/nandan/git_repo/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<encodingDesc>
+			<appInfo>
+				<application version="0.4.1" ident="GROBID" when="2016-04-05T13:49+0000">
+					<ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Tracers and Dispersion Of Gaseous Pollutants Objectives</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<affiliation>
+								<orgName>University of Bristol University of Cambridge</orgName>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Tracers and Dispersion Of Gaseous Pollutants Objectives</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<note type="submission">Start date/duration April 1998 -three years Lead Organisations</note>
+					<note>A3</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<abstract>
+				<p>The transport and dispersion of pollutants, within and from a large urban area, are important processes due to their potential environmental impact on city inhabitants and those living in nearby communities. The release of atmospheric Tracers is a powerful technique to simulate the dispersion of pollutants and to enable direct measurement of the transport path and concentrations along the trajectory. Successful Tracers are inert, non-toxic, non-depositing, with low atmospheric background concentrations, long atmospheric lifetimes, and limited commercial use. This research project is developing the Tracer technology necessary to characterise atmospheric dispersion within the urban environment. Location Bristol/generic Approach Bristol University is exploiting the many years of experience in Tracer technology coupled with recent advances in gas chromatography/mass spectrometry techniques. There are several components to developing an effective experimental Tracer technology and this project is addressing each of these in turn:  selection of Tracers  analytical instrumentation for their quantitative determination in the femtolitre/litre range  design and construction of automated sequential samplers  Tracer release apparatus  the preparation of accurate perfluorocarbon standards. Deliverables This project will provide the database for testing and developing air quality models.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/nandan/git_repo/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<encodingDesc>
+			<appInfo>
+				<application version="0.4.1" ident="GROBID" when="2016-04-05T13:50+0000">
+					<ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Evolution of the Particle Size Distribution of Vehicular Emissions in the Urban Atmosphere</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<affiliation>
+								<orgName>University of Leeds Middlesex University</orgName>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Evolution of the Particle Size Distribution of Vehicular Emissions in the Urban Atmosphere</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<note type="submission">Start date/duration January 1999 two years Lead Organisations</note>
+					<note>A7</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<abstract>
+				<p>Objectives The objectives of this project are:  to develop a Lagrangian type mathematical model of aerosol transformation/transport in an urban environment that includes condensation, evaporation, coagulation, deposition, nucleation and emission  to assess changes in size distribution, with time, of vehicle exhaust particles emitted into urban air  to assess by detailed modelling, the effects of water vapour and the volatility of organics on the measured size distribution. Location Generic Approach This project uses a theoretical modelling approach to study changes in particle size after emission from vehicles as the exhaust is dispersed into the urban atmosphere. The modelling work will make use of the input data from experimental measurements on engine emissions and atmospheric conditions in the UK together with emission inventory data and meteorological information. It uses a generic approach applicable to any city but the initial focus will be on London. Deliverables To be presented at conferences and submitted to journals in the usual manner, the project will deliver:  a Lagrangian type model of aerosol transport and transformation  a transferable computer code to calculate aerosol size distribution under typical UK situations  publications and reports on modelling aerosol size distributions, summarising data about their viability and relationships with meteorological conditions.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/nandan/git_repo/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<encodingDesc>
+			<appInfo>
+				<application version="0.4.1" ident="GROBID" when="2016-04-05T13:50+0000">
+					<ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">MINOR LEAGUE BASEBALL NATIONAL RETAIL AND CONCESSION SUPPLIER DIRECTORY 47 BRAND</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<affiliation>
+								<orgName>National Retail John Gentile</orgName>
+								<address><addrLine>15 Southwest Park Westwood, MA 02090 15 Southwest Park Westwood, MA 02090</addrLine></address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">MINOR LEAGUE BASEBALL NATIONAL RETAIL AND CONCESSION SUPPLIER DIRECTORY 47 BRAND</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<note>License Expires*: 12/31/2016 National Retail John Gentile FLEECE OUTERWEAR POLO W/ HAND FINISHED APPLIQUE &amp; SCREENPRINT SCARVES SCRUM TEE WITH SCREENPRINTED LOGO SWEATERS W/ HAND FINISHED APPLIQUE &amp; SCREENPRINT SWEATSHIRT W/ HAND FINISHED APPLIQUE &amp; SCREENPRINT TRACK JACKET W/ HAND FINISHED APPLIQUE &amp; SCREENPRINT T-SHIRT W/ HAND FINISHED APPLIQUE &amp; SCREENPRINT T-SHIRTS</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/nandan/git_repo/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<encodingDesc>
+			<appInfo>
+				<application version="0.4.1" ident="GROBID" when="2016-04-05T13:50+0000">
+					<ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Ranked among the top universities in the world</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName>
+								<forename type="first">Andrew</forename>
+								<surname>Hein</surname>
+								<roleName>Dr</roleName>
+							</persName>
+							<affiliation>
+								<orgName type="institution">University of Edinburgh&apos;s School of Geosciences</orgName>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Ranked among the top universities in the world</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<note type="submission">The University of Edinburgh News Release Issued: Tuesday 12 July 2011</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<abstract>
+				<p>Lie of the land beneath glaciers influences impact on sea levels Fresh research into glaciers could help scientists better predict the impact of changing climates on global sea levels. Scientists have shown for the first time that the terrain beneath glaciers influences how much glacier melt contributes to fluctuations in sea levels. Researchers say the study will improve their understanding of how ice sheet movements have affected sea levels in the past, and will enable more accurate projections of future change. Scientists from the University of Edinburgh studied glaciers in the Weddell Sea bay in Antarctica, and found surprising evidence that ice thickness in the region has not changed markedly since the past ice age. Researchers say that this is because during the last ice age, sea levels were lower, which would be expected to extend the land over which the ice travelled slowly towards the sea, thickening as it went. However, a large trough in the land caused the glacier to float instead, moving more quickly and preventing its thickening. This means the ice thickness has not varied markedly with climate or sea level change and has had little impact on sea levels or the volume of ice in Antarctica. Being able to anticipate the dynamics of the ice sheet in response to changing climates helps scientists predict shifts in global sea levels.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/nandan/git_repo/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<encodingDesc>
+			<appInfo>
+				<application version="0.4.1" ident="GROBID" when="2016-04-05T14:20+0000">
+					<ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Inflow conditions for large-eddy simulations</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName>
+								<forename type="first">Yusik</forename>
+								<surname>Kim</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">Faculty of Engineering and the Environment</orgName>
+								<orgName type="institution">University of Southampton</orgName>
+								<address>
+									<postCode>SO17 1BJ</postCode>
+									<settlement>Southampton</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Zheng-Tong</forename>
+								<surname>Xie</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">Faculty of Engineering and the Environment</orgName>
+								<orgName type="institution">University of Southampton</orgName>
+								<address>
+									<postCode>SO17 1BJ</postCode>
+									<settlement>Southampton</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Ian</forename>
+								<forename type="middle">P</forename>
+								<surname>Castro</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">Faculty of Engineering and the Environment</orgName>
+								<orgName type="institution">University of Southampton</orgName>
+								<address>
+									<postCode>SO17 1BJ</postCode>
+									<settlement>Southampton</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Inflow conditions for large-eddy simulations</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>inflow condition</term>
+					<term>divergence free</term>
+					<term>pressure fluctuations</term>
+					<term>near wall turbulence</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>A new turbulent inflow condition for LES is designed and compared with an existing model [1]. Both models are applied on a plane channel flow and validated with a periodic boundary condition. The two models show similar performance in terms of flow development distance, see Fig. 1. The imposing location of the inflow conditions and pressure-velocity coupling procedure are modified to satisfy the divergence free condition which leads to significant reduction of un-physical pressure fluctuations. Quasi-streamwise vortices are modelled in the near wall turbulence and are imposed at the inlet which enhances the flow developments .</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/nandan/git_repo/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<encodingDesc>
+			<appInfo>
+				<application version="0.4.1" ident="GROBID" when="2016-04-05T14:20+0000">
+					<ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">W4 Using Urban Aquifers: Sustainability at Different Space and Time Scales</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<title level="a" type="main">W4 Using Urban Aquifers: Sustainability at Different Space and Time Scales</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<abstract>
+				<p>Objectives Using Birmingham as an example, this project is testing the suggestion that it should be possible to abstract potable quality water from several of the UK urban aquifers on a sustainable basis. The project is concentrating on the Triassic sandstone aquifer of the West Midlands. The main issues are related to the heterogeneity of pollutant sources, and the effects of geochemical, hydrochemical and hydraulic layering at regional, sub-regional and local scales. The project is developing and applying tools which take these issues into account. Location West Midlands Approach The project is addressing three main areas: evaluation of solute source fluxes; evaluation of advective transport of solutes; and evaluation of the effect of reactive interactions. Three scales are being considered:  urban-scale, where the aquifer is considered as one unit  suburban-scale, where solute transfers from one part of the aquifer to another are considered  borehole-scale, where solute fate in the immediate vicinity of the borehole is considered. Start date/duration November 1997-four years Lead Organisation University of Birmingham Deliverables  an assessment of the researchers&apos; hypothesis in the context of the Birmingham system, including GIS databases, models at three scales with the incorporation of geochemical issues for the first time  a general methodology for assessing urban aquifer exploitation, incorporating a GIS-based system for urban risk assessment, a general reactive solute transport model that will allow the influence of water levels on hydrochemistry to be explored, and a borehole model for use in detailed well catchment/protection zone mapping.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/nandan/git_repo/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.4.1" ident="GROBID" when="2016-04-05T14:21+0000">
+					<ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main"></title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<note type="submission">Updated April 3rd, 2014</note>
+					<note>AddThis Healthcare Information Collected Health &gt; Health and Beauty Health &gt; Health and Beauty &gt; Fitness Health &gt; Health and Beauty &gt; Yoga Health &gt; Health and Medical Health &gt; Health and Medical &gt; Health Conditions Health &gt; Health and Medical &gt; Health Conditions &gt; Aches &amp; Pains Health &gt; Health and Medical &gt; Health Conditions &gt; Allergies Health &gt; Health and Medical &gt; Health Conditions &gt; Cold &amp; Flu Health &gt; Health and Medical &gt; Health Conditions &gt; Hearing Health &gt; Health and Medical &gt; Health Conditions &gt; Indigestion Health &gt; Health and Medical &gt; Healthcare Health &gt; Health and Medical &gt; Medical Terms Health &gt; Health and Medical &gt; Medical Terms &gt; General Practice Health &gt; Health and Medical &gt; Medical Terms &gt; Medical Facilities Health &gt; Health and Medical &gt; Medical Terms &gt; Medical Procedures Health &gt; Health and Medical &gt; Medical Terms &gt; Nurse Health &gt; Health and Medical &gt; Medicine Health &gt; Health and Medical &gt; Medicine &gt; Cold and Flu Health &gt; Health and Medical &gt; Medicine &gt; Vision Health &gt; Health and Medical &gt; Specialties Health &gt; Health and Medical &gt; Specialties &gt; Dentistry Health &gt; Health and Medical &gt; Specialties &gt; Dermatology Health &gt; Health and Medical &gt; Specialties &gt; Optometry &amp; Ophthalmology Health &gt; Health and Medical &gt; Specialties &gt; Orthopedic Health &gt; Health and Medical &gt; Specialties &gt; Pediatry Health &gt; Health and Wellness Health &gt; Health and Wellness &gt; First Aid Health &gt; Health and Wellness &gt; Healthcare Health &gt; Health and Wellness &gt; Homeopathy Health &gt; Health and Wellness &gt; Massage &amp; Spa Health &gt; Health and Wellness &gt; Nutrition Health &gt; Health and Wellness &gt; Vitamins &amp; Minerals Health &gt; Health and Wellness &gt; Weight Loss Health &gt; Social Health &gt; Social &gt; Health Influencers Health &gt; Social &gt; Health Shoppers Health &gt; Social &gt; Health Video Engagers</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<text>
+	</text>
+</TEI>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/nandan/git_repo/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<encodingDesc>
+			<appInfo>
+				<application version="0.4.1" ident="GROBID" when="2016-04-05T14:21+0000">
+					<ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Integrated outdoor-indoor Dispersion Modelling of Hazardous releases in the Urban Environment</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<title level="a" type="main">Integrated outdoor-indoor Dispersion Modelling of Hazardous releases in the Urban Environment</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<abstract>
+				<p>The potential effects resulting from accidental or intentional releases of hazardous materials in urban environments and how to respond to them pose substantial practical and scientific challenges. The importance of these has been recognised by the setting up of COST Action ES1006 &apos;Evaluation, improvement and guidance for the use of local-scale emergency prediction and response tools for airborne hazards in built environments&apos;. One of the primary drivers for the action is that there are a large number of different types of release that could potentially occur in the built environment, and there is a need to be able answer a wide range of questions, depending upon the nature of the incident. These questions might include identification of evacuation routes and a need to advise people whether to evacuate or shelter within buildings, for example. At present answering the second question is difficult as it requires a combined outdoor indoor prediction that accounts for the infiltration and exfiltration of material from buildings. There is also the potential need to be able to predict the external impact of releases made inside buildings. Whilst a large number of outdoor and indoor dispersion models of varying complexity exist, the capability has not existed so far to provide rapid hazard predictions in complex scenarios in which outdoor-to-indoor or indoor-to-outdoor dispersion effects are important. This gap is being addressed by the creation of an Urban SubSystem (USS) within the US Defense Threat Reduction Agency (DTRA) Hazard Prediction and Assessment Capability (HPAC). The approach adopted enables coupled outdoor-indoor simulations to be performed by selecting models for inclusion in the modelling chain in a plug-and-play manner that enables the user to select the most appropriate models based on their requirements for timeliness, accuracy or the information they have available. Whilst access to a range of models is one component of the USS, the availability of a database containing urban building information for the area of interest is an important prerequisite for sophisticated urban dispersion modelling. Within the USS as well as providing the basic characteristics of the urban environment, the urban database also provides the means for introducing indoor building models into the simulation. This is either through the database holding the actual data required for indoor models, or data for pointing the simulation to the required data. Furthermore, the USS may call an urban windfield solver to evaluate the external pressures around buildings to define the boundary conditions for the indoor models. The prototype USS potentially provides an important step forward in developing tools for emergency guidance and response, through enabling outdoor and indoor models to be coupled together. In addition, it provides a valuable tool for identifying the relative benefits of different models, modelling issues that need to be addressed and a provides a useful basis for determining how the a broader range of questions that first responders might ask can best be answered. Acknowledgement</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/nandan/git_repo/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<encodingDesc>
+			<appInfo>
+				<application version="0.4.1" ident="GROBID" when="2016-04-05T14:21+0000">
+					<ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Modeling of Transient Winds and their Load Effects on Structures</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName>
+								<forename type="first">Ahsan</forename>
+								<surname>Kareem</surname>
+							</persName>
+							<email>* kareem@nd.edu</email>
+							<affiliation>
+								<orgName type="department">Department of Civil &amp; Environmental Engineering &amp; Earth Sciences</orgName>
+								<orgName type="institution">University of Notre Dame Notre Dame</orgName>
+								<address>
+									<region>IN</region>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Modeling of Transient Winds and their Load Effects on Structures</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<abstract>
+				<p>Notwithstanding the developments made in recent decades in wind effects on structures, there is a need to revisit the current paradigms and to look for improved understanding concerning the nature of wind field, associated aerodynamics and the resulting load effects in light of the emerging themes: non-stationarity/non-homogeneity/transient wind events; mechanical/convective turbulence; unsteady/transient aerodynamics. Also, one needs to take note of recent advances in analysis and identification tools, modeling frameworks and model to full-scale monitoring of wind effects that promise to offer better understanding of the underlying complexities associated with the preceding theme. This paper discusses these issues and illustrates their significance as the next frontiers in wind engineering, current progress and activities at the NatHaz Modelling Laboratory to address this challenge.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/nandan/git_repo/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.4.1" ident="GROBID" when="2016-04-05T14:33+0000">
+					<ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main"></title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<note type="submission">Updated April 3rd, 2014</note>
+					<note>AddThis Healthcare Information Collected Health &gt; Health and Beauty Health &gt; Health and Beauty &gt; Fitness Health &gt; Health and Beauty &gt; Yoga Health &gt; Health and Medical Health &gt; Health and Medical &gt; Health Conditions Health &gt; Health and Medical &gt; Health Conditions &gt; Aches &amp; Pains Health &gt; Health and Medical &gt; Health Conditions &gt; Allergies Health &gt; Health and Medical &gt; Health Conditions &gt; Cold &amp; Flu Health &gt; Health and Medical &gt; Health Conditions &gt; Hearing Health &gt; Health and Medical &gt; Health Conditions &gt; Indigestion Health &gt; Health and Medical &gt; Healthcare Health &gt; Health and Medical &gt; Medical Terms Health &gt; Health and Medical &gt; Medical Terms &gt; General Practice Health &gt; Health and Medical &gt; Medical Terms &gt; Medical Facilities Health &gt; Health and Medical &gt; Medical Terms &gt; Medical Procedures Health &gt; Health and Medical &gt; Medical Terms &gt; Nurse Health &gt; Health and Medical &gt; Medicine Health &gt; Health and Medical &gt; Medicine &gt; Cold and Flu Health &gt; Health and Medical &gt; Medicine &gt; Vision Health &gt; Health and Medical &gt; Specialties Health &gt; Health and Medical &gt; Specialties &gt; Dentistry Health &gt; Health and Medical &gt; Specialties &gt; Dermatology Health &gt; Health and Medical &gt; Specialties &gt; Optometry &amp; Ophthalmology Health &gt; Health and Medical &gt; Specialties &gt; Orthopedic Health &gt; Health and Medical &gt; Specialties &gt; Pediatry Health &gt; Health and Wellness Health &gt; Health and Wellness &gt; First Aid Health &gt; Health and Wellness &gt; Healthcare Health &gt; Health and Wellness &gt; Homeopathy Health &gt; Health and Wellness &gt; Massage &amp; Spa Health &gt; Health and Wellness &gt; Nutrition Health &gt; Health and Wellness &gt; Vitamins &amp; Minerals Health &gt; Health and Wellness &gt; Weight Loss Health &gt; Social Health &gt; Social &gt; Health Influencers Health &gt; Social &gt; Health Shoppers Health &gt; Social &gt; Health Video Engagers</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<text>
+	</text>
+</TEI>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/nandan/git_repo/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.4.1" ident="GROBID" when="2016-04-05T14:35+0000">
+					<ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main"></title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<note type="submission">Updated April 3rd, 2014</note>
+					<note>AddThis Healthcare Information Collected Health &gt; Health and Beauty Health &gt; Health and Beauty &gt; Fitness Health &gt; Health and Beauty &gt; Yoga Health &gt; Health and Medical Health &gt; Health and Medical &gt; Health Conditions Health &gt; Health and Medical &gt; Health Conditions &gt; Aches &amp; Pains Health &gt; Health and Medical &gt; Health Conditions &gt; Allergies Health &gt; Health and Medical &gt; Health Conditions &gt; Cold &amp; Flu Health &gt; Health and Medical &gt; Health Conditions &gt; Hearing Health &gt; Health and Medical &gt; Health Conditions &gt; Indigestion Health &gt; Health and Medical &gt; Healthcare Health &gt; Health and Medical &gt; Medical Terms Health &gt; Health and Medical &gt; Medical Terms &gt; General Practice Health &gt; Health and Medical &gt; Medical Terms &gt; Medical Facilities Health &gt; Health and Medical &gt; Medical Terms &gt; Medical Procedures Health &gt; Health and Medical &gt; Medical Terms &gt; Nurse Health &gt; Health and Medical &gt; Medicine Health &gt; Health and Medical &gt; Medicine &gt; Cold and Flu Health &gt; Health and Medical &gt; Medicine &gt; Vision Health &gt; Health and Medical &gt; Specialties Health &gt; Health and Medical &gt; Specialties &gt; Dentistry Health &gt; Health and Medical &gt; Specialties &gt; Dermatology Health &gt; Health and Medical &gt; Specialties &gt; Optometry &amp; Ophthalmology Health &gt; Health and Medical &gt; Specialties &gt; Orthopedic Health &gt; Health and Medical &gt; Specialties &gt; Pediatry Health &gt; Health and Wellness Health &gt; Health and Wellness &gt; First Aid Health &gt; Health and Wellness &gt; Healthcare Health &gt; Health and Wellness &gt; Homeopathy Health &gt; Health and Wellness &gt; Massage &amp; Spa Health &gt; Health and Wellness &gt; Nutrition Health &gt; Health and Wellness &gt; Vitamins &amp; Minerals Health &gt; Health and Wellness &gt; Weight Loss Health &gt; Social Health &gt; Social &gt; Health Influencers Health &gt; Social &gt; Health Shoppers Health &gt; Social &gt; Health Video Engagers</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<text>
+	</text>
+</TEI>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/nandan/git_repo/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<encodingDesc>
+			<appInfo>
+				<application version="0.4.1" ident="GROBID" when="2016-04-05T14:38+0000">
+					<ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Inflow conditions for large-eddy simulations</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName>
+								<forename type="first">Yusik</forename>
+								<surname>Kim</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">Faculty of Engineering and the Environment</orgName>
+								<orgName type="institution">University of Southampton</orgName>
+								<address>
+									<postCode>SO17 1BJ</postCode>
+									<settlement>Southampton</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Zheng-Tong</forename>
+								<surname>Xie</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">Faculty of Engineering and the Environment</orgName>
+								<orgName type="institution">University of Southampton</orgName>
+								<address>
+									<postCode>SO17 1BJ</postCode>
+									<settlement>Southampton</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Ian</forename>
+								<forename type="middle">P</forename>
+								<surname>Castro</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">Faculty of Engineering and the Environment</orgName>
+								<orgName type="institution">University of Southampton</orgName>
+								<address>
+									<postCode>SO17 1BJ</postCode>
+									<settlement>Southampton</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Inflow conditions for large-eddy simulations</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>inflow condition</term>
+					<term>divergence free</term>
+					<term>pressure fluctuations</term>
+					<term>near wall turbulence</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>A new turbulent inflow condition for LES is designed and compared with an existing model [1]. Both models are applied on a plane channel flow and validated with a periodic boundary condition. The two models show similar performance in terms of flow development distance, see Fig. 1. The imposing location of the inflow conditions and pressure-velocity coupling procedure are modified to satisfy the divergence free condition which leads to significant reduction of un-physical pressure fluctuations. Quasi-streamwise vortices are modelled in the near wall turbulence and are imposed at the inlet which enhances the flow developments .</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/nandan/git_repo/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<encodingDesc>
+			<appInfo>
+				<application version="0.4.1" ident="GROBID" when="2016-04-05T14:38+0000">
+					<ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">W4 Using Urban Aquifers: Sustainability at Different Space and Time Scales</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<title level="a" type="main">W4 Using Urban Aquifers: Sustainability at Different Space and Time Scales</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<abstract>
+				<p>Objectives Using Birmingham as an example, this project is testing the suggestion that it should be possible to abstract potable quality water from several of the UK urban aquifers on a sustainable basis. The project is concentrating on the Triassic sandstone aquifer of the West Midlands. The main issues are related to the heterogeneity of pollutant sources, and the effects of geochemical, hydrochemical and hydraulic layering at regional, sub-regional and local scales. The project is developing and applying tools which take these issues into account. Location West Midlands Approach The project is addressing three main areas: evaluation of solute source fluxes; evaluation of advective transport of solutes; and evaluation of the effect of reactive interactions. Three scales are being considered:  urban-scale, where the aquifer is considered as one unit  suburban-scale, where solute transfers from one part of the aquifer to another are considered  borehole-scale, where solute fate in the immediate vicinity of the borehole is considered. Start date/duration November 1997-four years Lead Organisation University of Birmingham Deliverables  an assessment of the researchers&apos; hypothesis in the context of the Birmingham system, including GIS databases, models at three scales with the incorporation of geochemical issues for the first time  a general methodology for assessing urban aquifer exploitation, incorporating a GIS-based system for urban risk assessment, a general reactive solute transport model that will allow the influence of water levels on hydrochemistry to be explored, and a borehole model for use in detailed well catchment/protection zone mapping.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/nandan/git_repo/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.4.1" ident="GROBID" when="2016-04-05T14:38+0000">
+					<ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main"></title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<note type="submission">Updated April 3rd, 2014</note>
+					<note>AddThis Healthcare Information Collected Health &gt; Health and Beauty Health &gt; Health and Beauty &gt; Fitness Health &gt; Health and Beauty &gt; Yoga Health &gt; Health and Medical Health &gt; Health and Medical &gt; Health Conditions Health &gt; Health and Medical &gt; Health Conditions &gt; Aches &amp; Pains Health &gt; Health and Medical &gt; Health Conditions &gt; Allergies Health &gt; Health and Medical &gt; Health Conditions &gt; Cold &amp; Flu Health &gt; Health and Medical &gt; Health Conditions &gt; Hearing Health &gt; Health and Medical &gt; Health Conditions &gt; Indigestion Health &gt; Health and Medical &gt; Healthcare Health &gt; Health and Medical &gt; Medical Terms Health &gt; Health and Medical &gt; Medical Terms &gt; General Practice Health &gt; Health and Medical &gt; Medical Terms &gt; Medical Facilities Health &gt; Health and Medical &gt; Medical Terms &gt; Medical Procedures Health &gt; Health and Medical &gt; Medical Terms &gt; Nurse Health &gt; Health and Medical &gt; Medicine Health &gt; Health and Medical &gt; Medicine &gt; Cold and Flu Health &gt; Health and Medical &gt; Medicine &gt; Vision Health &gt; Health and Medical &gt; Specialties Health &gt; Health and Medical &gt; Specialties &gt; Dentistry Health &gt; Health and Medical &gt; Specialties &gt; Dermatology Health &gt; Health and Medical &gt; Specialties &gt; Optometry &amp; Ophthalmology Health &gt; Health and Medical &gt; Specialties &gt; Orthopedic Health &gt; Health and Medical &gt; Specialties &gt; Pediatry Health &gt; Health and Wellness Health &gt; Health and Wellness &gt; First Aid Health &gt; Health and Wellness &gt; Healthcare Health &gt; Health and Wellness &gt; Homeopathy Health &gt; Health and Wellness &gt; Massage &amp; Spa Health &gt; Health and Wellness &gt; Nutrition Health &gt; Health and Wellness &gt; Vitamins &amp; Minerals Health &gt; Health and Wellness &gt; Weight Loss Health &gt; Social Health &gt; Social &gt; Health Influencers Health &gt; Social &gt; Health Shoppers Health &gt; Social &gt; Health Video Engagers</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<text>
+	</text>
+</TEI>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/nandan/git_repo/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<encodingDesc>
+			<appInfo>
+				<application version="0.4.1" ident="GROBID" when="2016-04-05T14:38+0000">
+					<ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Integrated outdoor-indoor Dispersion Modelling of Hazardous releases in the Urban Environment</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<title level="a" type="main">Integrated outdoor-indoor Dispersion Modelling of Hazardous releases in the Urban Environment</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<abstract>
+				<p>The potential effects resulting from accidental or intentional releases of hazardous materials in urban environments and how to respond to them pose substantial practical and scientific challenges. The importance of these has been recognised by the setting up of COST Action ES1006 &apos;Evaluation, improvement and guidance for the use of local-scale emergency prediction and response tools for airborne hazards in built environments&apos;. One of the primary drivers for the action is that there are a large number of different types of release that could potentially occur in the built environment, and there is a need to be able answer a wide range of questions, depending upon the nature of the incident. These questions might include identification of evacuation routes and a need to advise people whether to evacuate or shelter within buildings, for example. At present answering the second question is difficult as it requires a combined outdoor indoor prediction that accounts for the infiltration and exfiltration of material from buildings. There is also the potential need to be able to predict the external impact of releases made inside buildings. Whilst a large number of outdoor and indoor dispersion models of varying complexity exist, the capability has not existed so far to provide rapid hazard predictions in complex scenarios in which outdoor-to-indoor or indoor-to-outdoor dispersion effects are important. This gap is being addressed by the creation of an Urban SubSystem (USS) within the US Defense Threat Reduction Agency (DTRA) Hazard Prediction and Assessment Capability (HPAC). The approach adopted enables coupled outdoor-indoor simulations to be performed by selecting models for inclusion in the modelling chain in a plug-and-play manner that enables the user to select the most appropriate models based on their requirements for timeliness, accuracy or the information they have available. Whilst access to a range of models is one component of the USS, the availability of a database containing urban building information for the area of interest is an important prerequisite for sophisticated urban dispersion modelling. Within the USS as well as providing the basic characteristics of the urban environment, the urban database also provides the means for introducing indoor building models into the simulation. This is either through the database holding the actual data required for indoor models, or data for pointing the simulation to the required data. Furthermore, the USS may call an urban windfield solver to evaluate the external pressures around buildings to define the boundary conditions for the indoor models. The prototype USS potentially provides an important step forward in developing tools for emergency guidance and response, through enabling outdoor and indoor models to be coupled together. In addition, it provides a valuable tool for identifying the relative benefits of different models, modelling issues that need to be addressed and a provides a useful basis for determining how the a broader range of questions that first responders might ask can best be answered. Acknowledgement</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/nandan/git_repo/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<encodingDesc>
+			<appInfo>
+				<application version="0.4.1" ident="GROBID" when="2016-04-05T14:39+0000">
+					<ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Modeling of Transient Winds and their Load Effects on Structures</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName>
+								<forename type="first">Ahsan</forename>
+								<surname>Kareem</surname>
+							</persName>
+							<email>* kareem@nd.edu</email>
+							<affiliation>
+								<orgName type="department">Department of Civil &amp; Environmental Engineering &amp; Earth Sciences</orgName>
+								<orgName type="institution">University of Notre Dame Notre Dame</orgName>
+								<address>
+									<region>IN</region>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Modeling of Transient Winds and their Load Effects on Structures</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<abstract>
+				<p>Notwithstanding the developments made in recent decades in wind effects on structures, there is a need to revisit the current paradigms and to look for improved understanding concerning the nature of wind field, associated aerodynamics and the resulting load effects in light of the emerging themes: non-stationarity/non-homogeneity/transient wind events; mechanical/convective turbulence; unsteady/transient aerodynamics. Also, one needs to take note of recent advances in analysis and identification tools, modeling frameworks and model to full-scale monitoring of wind effects that promise to offer better understanding of the underlying complexities associated with the preceding theme. This paper discusses these issues and illustrates their significance as the next frontiers in wind engineering, current progress and activities at the NatHaz Modelling Laboratory to address this challenge.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>
+

@@ -34,4 +34,4 @@ if __name__ == "__main__":
 		s = solr.Solr('http://localhost:8983/solr/polarcollection')
 		[s.add(row,commit='true') for row in data]
 		res = solr.SearchHandler(s, '/select?q=*:*')
-		print res().__dict__
+		print(res().__dict__)
