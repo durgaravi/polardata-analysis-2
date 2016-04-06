@@ -133,20 +133,34 @@ def main(argv = None):
 		file_parsed_data = {}
 		resemblance_scores = {}
 		file_metadata={}
-
+		with open("DOI.json") as f:
+			doi = json.load(f)
+			
+		with open("ner.json") as f:
+			ner = json.load(f)
+			
+		with open("geotopic.json") as f:
+			geotopic = json.load(f)
+			
 		for filename in filename_list:
 			file_parsed = []
 			# first compute the union of all features
 			parsedData = parser.from_file(filename)
 			filename_stripped = filename.replace(",", "")
 			try:
-				file_metadata[filename_stripped] = parsedData["metadata"]
-
+				metadata = parsedData["metadata"]
+				filedoi = doi[filename_stripped.split("/")[-1]]
+				record = [x for x in ner if x['id'] == filedoi]
+				if record:
+					print record[0]
+					metadata.update(record[0])
+				file_metadata[filename_stripped] = metadata
+				print file_metadata[filename_stripped]
 				#get key : value of metadata
-				for key in parsedData["metadata"]:
-					value = parsedData["metadata"][key]
+				for key in metadata:
+					value = metadata[key]
 					if isinstance(value, list):
-						value = ", ".join(parsedData["metadata"][key])
+						value = ", ".join(metadata[key])
 
 					file_parsed.append(str(key.strip(' ').encode('utf-8') + ": " + value.strip(' ').encode('utf-8')))
 
